@@ -30,19 +30,9 @@ export default async function ReservationsPage({
   return (
     <>
       <PageHero title={t("heroTitle")} subtitle={t("heroSubtitle")} />
-      <section className="py-20 md:py-28">
+      <section className="py-20 md:py-28 bg-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <ReservationForm />
-
-          {/* Notes */}
-          <div className="mt-8 space-y-4 text-center">
-            <p className="text-sm text-muted-foreground bg-card rounded-lg p-4 border border-border">
-              {t("note")}
-            </p>
-            <p className="text-sm text-muted-foreground">
-              {t("walkIn")}
-            </p>
-          </div>
         </div>
       </section>
     </>
