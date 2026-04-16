@@ -20,6 +20,7 @@ export const NAV_ITEMS = [
 ] as const;
 
 export const FOOTER_NAV = [
+  { href: "/", labelKey: "nav.home" },
   { href: "/over-ons", labelKey: "nav.about" },
   { href: "/locaties", labelKey: "nav.locations" },
   { href: "/menu", labelKey: "nav.menu" },
