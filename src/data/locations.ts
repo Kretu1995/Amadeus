@@ -37,6 +37,8 @@ export const locations: Location[] = [
     googleMapsUrl:
       "https://www.google.com/maps/place/Plotersgracht+8,+9000+Gent",
     city: "Gent",
+    bookingUrl:
+      "https://book.restomanager.net/reservations/68308785da78d100d97e9294",
   },
   {
     id: "gent-2",
@@ -64,6 +66,8 @@ export const locations: Location[] = [
     googleMapsUrl:
       "https://www.google.com/maps/place/Gouden+Leeuwplein+7,+9000+Gent",
     city: "Gent",
+    bookingUrl:
+      "https://book.restomanager.net/reservations/683087e6e565bde6a9d34e4f",
   },
   {
     id: "brussel",
@@ -91,6 +95,8 @@ export const locations: Location[] = [
     googleMapsUrl:
       "https://www.google.com/maps/place/Sint-Katelijnestraat+26,+1000+Brussel",
     city: "Brussel",
+    bookingUrl:
+      "https://book.restomanager.net/reservations/68308851da78d100d97e92be",
   },
   {
     id: "antwerpen",
@@ -118,6 +124,8 @@ export const locations: Location[] = [
     googleMapsUrl:
       "https://www.google.com/maps/place/Suikerrui+9,+2000+Antwerpen",
     city: "Antwerpen",
+    bookingUrl:
+      "https://book.restomanager.net/reservations/683088937b173eeea2c37df3",
   },
   {
     id: "lozer",
@@ -152,6 +160,8 @@ export const locations: Location[] = [
     googleMapsUrl:
       "https://www.google.com/maps/place/Lozerstraat+5,+9770+Kruishoutem",
     city: "Kruishoutem",
+    bookingUrl:
+      "https://book.restomanager.net/reservations/683088d17b173eeea2c37e08",
   },
   {
     id: "brugge",

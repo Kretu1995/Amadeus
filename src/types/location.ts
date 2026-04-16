@@ -41,4 +41,5 @@ export interface Location {
   reopeningYear?: string;
   googleMapsUrl: string;
   city: string;
+  bookingUrl?: string;
 }
