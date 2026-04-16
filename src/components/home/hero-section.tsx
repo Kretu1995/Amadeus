@@ -30,7 +30,7 @@ export function HeroSection() {
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: `url('/images/hero/ribs-hero-1.jpg')`,
+            backgroundImage: `url('/images/hero/ribs-hero-2.jpg')`,
           }}
         />
         {/* Dark warm overlay */}
