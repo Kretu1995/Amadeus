@@ -5,14 +5,7 @@ import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
 import { getActiveLocations } from "@/data/locations";
 import type { Location } from "@/types/location";
-import {
-  MapPin,
-  Phone,
-  Clock,
-  ChevronLeft,
-  ExternalLink,
-  CalendarDays,
-} from "lucide-react";
+import { MapPin, Phone, Clock, ChevronLeft } from "lucide-react";
 
 const dayKeys = [
   "monday",
@@ -180,37 +173,20 @@ export function ReservationForm() {
           </button>
 
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8">
-            {/* Booking card with link to RestoManager */}
-            <div className="p-8 md:p-10 rounded-xl bg-card border border-border">
-              <div className="text-center">
-                <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 mb-5">
-                  <CalendarDays size={28} className="text-primary" />
-                </div>
-                <h3 className="font-heading text-2xl md:text-3xl font-bold text-foreground mb-2">
-                  {selectedLoc?.shortName}
-                </h3>
-                <p className="text-muted-foreground text-sm mb-8">
-                  {selectedLoc?.address.street},{" "}
-                  {selectedLoc?.address.postalCode}{" "}
-                  {selectedLoc?.address.city}
-                </p>
-
-                {selectedLoc?.bookingUrl && (
-                  <a
-                    href={selectedLoc.bookingUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center justify-center gap-2 px-10 py-4 bg-primary text-primary-foreground font-bold text-lg rounded-xl hover:bg-primary/90 transition-all shadow-lg shadow-primary/20"
-                  >
-                    {t("submit")}
-                    <ExternalLink size={18} />
-                  </a>
-                )}
-
-                <p className="text-xs text-muted-foreground mt-4">
-                  Powered by RestoManager
-                </p>
-              </div>
+            {/* RestoManager widget */}
+            <div
+              className="rounded-2xl overflow-hidden shadow-xl shadow-black/20 border border-border relative"
+              style={{ height: "750px" }}
+            >
+              {selectedLoc?.bookingUrl && (
+                <iframe
+                  src={selectedLoc.bookingUrl}
+                  title={`RestoManager - ${selectedLoc.shortName}`}
+                  className="absolute inset-0 w-full border-0"
+                  style={{ height: "1000px" }}
+                  allow="payment"
+                />
+              )}
             </div>
 
             {/* Sidebar */}
