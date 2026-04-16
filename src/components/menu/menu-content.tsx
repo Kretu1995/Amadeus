@@ -74,34 +74,34 @@ export function MenuContent() {
     const itemKey = item.nameKey.replace("menu.items.", "").replace(".name", "");
     return (
       <div
-        className={`py-3.5 ${!isLast ? "border-b border-dashed border-amber-900/20" : ""}`}
+        className={`py-4 ${!isLast ? "border-b border-dashed border-amber-900/20" : ""}`}
       >
         <div className="flex justify-between items-baseline gap-2">
-          <div className="flex items-center gap-1.5 min-w-0">
-            <h4 className="font-heading text-base md:text-lg font-semibold text-amber-950 truncate">
+          <div className="flex items-center gap-2 min-w-0">
+            <h4 className="font-heading text-lg md:text-xl font-semibold text-amber-950 truncate">
               {t(`items.${itemKey}.name`)}
             </h4>
             {item.isSignature && (
-              <Flame size={13} className="text-red-700 shrink-0" />
+              <Flame size={15} className="text-red-700 shrink-0" />
             )}
             {item.dietary.includes("vegetarian") && (
-              <Leaf size={11} className="text-green-700 shrink-0" />
+              <Leaf size={13} className="text-green-700 shrink-0" />
             )}
           </div>
-          <div className="flex-1 border-b border-dotted border-amber-900/15 mx-1.5 mb-1 min-w-[20px]" />
+          <div className="flex-1 border-b border-dotted border-amber-900/15 mx-2 mb-1 min-w-[20px]" />
           <div className="shrink-0">
             {item.isAllYouCanEat ? (
-              <span className="text-[10px] font-bold text-red-800 uppercase tracking-wider whitespace-nowrap">
+              <span className="text-xs font-bold text-red-800 uppercase tracking-wider whitespace-nowrap">
                 {t("allYouCanEat")}
               </span>
             ) : item.price ? (
-              <span className="font-heading text-base font-bold text-amber-900">
+              <span className="font-heading text-lg font-bold text-amber-900">
                 &euro;{item.price.toFixed(2)}
               </span>
             ) : null}
           </div>
         </div>
-        <p className="text-xs text-amber-900/60 mt-1 leading-relaxed italic pr-4">
+        <p className="text-sm text-amber-900/60 mt-1.5 leading-relaxed italic pr-4">
           {t(`items.${itemKey}.description`)}
         </p>
       </div>
@@ -110,7 +110,7 @@ export function MenuContent() {
 
   return (
     <section className="py-12 md:py-20">
-      <div className="max-w-5xl mx-auto px-2 sm:px-4 lg:px-8">
+      <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
         {/* Book wrapper with perspective */}
         <div className="relative" style={{ perspective: "2000px" }}>
           {/* Book shadow on table */}
@@ -175,15 +175,15 @@ export function MenuContent() {
                   className="relative z-10"
                   style={{ transformStyle: "preserve-3d" }}
                 >
-                  <div className="grid grid-cols-1 md:grid-cols-2 min-h-[500px]">
+                  <div className="grid grid-cols-1 md:grid-cols-2 min-h-[600px]">
                     {/* LEFT PAGE */}
-                    <div className="relative px-6 sm:px-8 md:px-10 py-8 md:py-10 md:border-r border-amber-900/10">
+                    <div className="relative px-8 sm:px-10 md:px-12 py-10 md:py-12 md:border-r border-amber-900/10">
                       {/* Page number */}
-                      <div className="text-center mb-6">
-                        <p className="text-[10px] text-amber-800/40 uppercase tracking-[0.3em] mb-3">
+                      <div className="text-center mb-8">
+                        <p className="text-xs text-amber-800/40 uppercase tracking-[0.3em] mb-3">
                           ~ Amadeus ~
                         </p>
-                        <h3 className="font-heading text-2xl md:text-3xl font-bold text-amber-950">
+                        <h3 className="font-heading text-3xl md:text-4xl font-bold text-amber-950">
                           {t(`categories.${activeCategory}`)}
                         </h3>
                         <div className="flex items-center justify-center gap-3 mt-2">
@@ -211,7 +211,7 @@ export function MenuContent() {
                     </div>
 
                     {/* RIGHT PAGE */}
-                    <div className="relative px-6 sm:px-8 md:px-10 py-8 md:py-10">
+                    <div className="relative px-8 sm:px-10 md:px-12 py-10 md:py-12">
                       {/* Right page continuation or decoration */}
                       {rightItems.length > 0 ? (
                         <>
@@ -311,12 +311,12 @@ export function MenuContent() {
             </button>
 
             {/* Category tabs as page markers */}
-            <div className="flex items-center gap-1">
+            <div className="flex items-center gap-1.5 flex-wrap justify-center">
               {categories.map((cat, i) => (
                 <button
                   key={cat.key}
                   onClick={() => goToPage(i)}
-                  className={`px-2.5 py-1 text-xs font-medium rounded transition-all ${
+                  className={`px-3 py-1.5 text-sm font-medium rounded transition-all ${
                     i === activePage
                       ? "bg-primary text-primary-foreground shadow-sm"
                       : "text-muted-foreground hover:text-foreground hover:bg-muted/50"
