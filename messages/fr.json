@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "title": "Amadeus - The Original Place for Ribs",
+    "description": "Le restaurant iconique de spare ribs \u00e0 volont\u00e9 en Belgique. Cinq emplacements uniques \u00e0 Gand, Bruxelles, Anvers et Lozer. R\u00e9servez votre table.",
+    "ogTitle": "Amadeus Restaurant | Ribs L\u00e9gendaires Depuis 1998"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "Notre Histoire",
+    "locations": "Emplacements",
+    "menu": "Menu",
+    "reserve": "R\u00e9server",
+    "groups": "Groupes & \u00c9v\u00e9nements",
+    "jobs": "Jobs",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "tagline": "The Original Place for Ribs",
+    "subtitle": "Spare ribs \u00e0 volont\u00e9 dans un cadre chaleureux et atmosph\u00e9rique. Cinq emplacements iconiques en Belgique.",
+    "cta": "R\u00e9server une Table",
+    "ctaMenu": "Voir le Menu",
+    "scrollHint": "D\u00e9couvrir plus"
+  },
+  "concept": {
+    "ribs": "Ribs \u00e0 Volont\u00e9",
+    "ribsDesc": "Nos l\u00e9gendaires spare ribs, glac\u00e9es \u00e0 la perfection et servies jusqu'\u00e0 plus faim.",
+    "locations": "5 Emplacements Iconiques",
+    "locationsDesc": "Du Gand historique \u00e0 Bruxelles et Anvers.",
+    "heritage": "25+ Ans de Saveurs",
+    "heritageDesc": "Un quart de si\u00e8cle d'exp\u00e9riences culinaires inoubliables."
+  },
+  "ribsShowcase": {
+    "overline": "Notre Sp\u00e9cialit\u00e9",
+    "title": "Les Ribs Qui Nous Ont Rendus C\u00e9l\u00e8bres",
+    "description": "Cuites lentement jusqu'\u00e0 se d\u00e9tacher de l'os, glac\u00e9es avec notre sauce maison secr\u00e8te et servies en portions g\u00e9n\u00e9reuses. Chez Amadeus, les ribs ne sont pas qu'un plat \u2014 c'est une exp\u00e9rience.",
+    "cta": "D\u00e9couvrir le Menu"
+  },
+  "locationsSection": {
+    "overline": "Nos Restaurants",
+    "title": "Trouvez Votre Amadeus",
+    "subtitle": "Cinq emplacements uniques, chacun avec son propre caract\u00e8re. Une exp\u00e9rience inoubliable.",
+    "viewAll": "Voir Tous les Emplacements",
+    "reopening": "R\u00e9ouverture {year}",
+    "comingSoon": "Bient\u00f4t"
+  },
+  "testimonials": {
+    "overline": "Ce Que Disent Nos H\u00f4tes",
+    "title": "Soir\u00e9es Inoubliables",
+    "items": [
+      {
+        "quote": "Les meilleures ribs que j'ai jamais mang\u00e9es. L'ambiance est incroyable et le concept \u00e0 volont\u00e9 est imbattable!",
+        "author": "Sophie D.",
+        "location": "Gand"
+      },
+      {
+        "quote": "Parfait pour notre d\u00eener de groupe. 20 amis, des ribs sans fin, soir\u00e9e incroyable. Amadeus ne d\u00e9\u00e7oit jamais.",
+        "author": "Thomas V.",
+        "location": "Anvers"
+      },
+      {
+        "quote": "Un incontournable en Belgique. L'int\u00e9rieur seul vaut le d\u00e9tour, et les ribs sont tout simplement exceptionnelles.",
+        "author": "Maria L.",
+        "location": "Bruxelles"
+      },
+      {
+        "quote": "Nous avons c\u00e9l\u00e9br\u00e9 notre anniversaire ici et c'\u00e9tait parfait. Ambiance chaleureuse et cet Irish Coffee pour finir \u2014 magique.",
+        "author": "Jan & Lien",
+        "location": "Gand"
+      }
+    ]
+  },
+  "groupDining": {
+    "overline": "Groupes & \u00c9v\u00e9nements",
+    "title": "C\u00e9l\u00e9brez Ensemble",
+    "description": "Des d\u00eeners intimes aux grandes f\u00eates avec 40+ invit\u00e9s. Amadeus est le cadre parfait pour les anniversaires, \u00e9v\u00e9nements d'\u00e9quipe et exp\u00e9riences de groupe inoubliables.",
+    "cta": "Planifiez Votre \u00c9v\u00e9nement",
+    "features": ["Menus de groupe flexibles", "Options de d\u00eener priv\u00e9", "Arrangements sur mesure pour 40+ invit\u00e9s", "Cinq emplacements disponibles"]
+  },
+  "reservationBanner": {
+    "title": "Pr\u00eat pour des Ribs L\u00e9gendaires?",
+    "subtitle": "R\u00e9servez votre table dans l'un de nos cinq emplacements.",
+    "cta": "R\u00e9server Maintenant"
+  },
+  "about": {
+    "meta": {
+      "title": "Notre Histoire - 25+ Ans de Ribs L\u00e9gendaires",
+      "description": "D\u00e9couvrez l'histoire d'Amadeus. D'un seul restaurant \u00e0 Gand \u00e0 cinq emplacements bien-aim\u00e9s \u00e0 travers la Belgique."
+    },
+    "heroTitle": "Notre Histoire",
+    "heroSubtitle": "Un quart de si\u00e8cle de ribs l\u00e9gendaires, d'ambiances chaleureuses et de soir\u00e9es inoubliables.",
+    "origin": {
+      "overline": "O\u00f9 Tout a Commenc\u00e9",
+      "title": "Du Patershol \u00e0 Toute la Belgique",
+      "p1": "En 1998, Amadeus a ouvert ses portes au c\u0153ur du quartier Patershol de Gand. Ce qui a commenc\u00e9 comme une id\u00e9e simple \u2014 servir les meilleures ribs au meilleur prix dans l'ambiance la plus chaleureuse \u2014 est rapidement devenu une institution belge bien-aim\u00e9e.",
+      "p2": "Aujourd'hui, avec cinq emplacements \u00e0 Gand, Bruxelles, Anvers et Lozer, nous vivons toujours selon la m\u00eame philosophie: portions g\u00e9n\u00e9reuses, hospitalit\u00e9 authentique et des ribs qui vous font revenir.",
+      "p3": "Chaque restaurant Amadeus a son propre caract\u00e8re unique, abrit\u00e9 dans des b\u00e2timents historiques soigneusement restaur\u00e9s remplis d'antiquit\u00e9s, d'\u00e9clairage chaleureux et de l'ar\u00f4me inimitable des ribs sur le grill."
+    },
+    "values": {
+      "overline": "Ce En Quoi Nous Croyons",
+      "title": "Nos Valeurs",
+      "generous": {
+        "title": "Portions G\u00e9n\u00e9reuses",
+        "description": "\u00c0 volont\u00e9 n'est pas qu'un concept \u2014 c'est notre promesse. Personne ne repart le ventre vide."
+      },
+      "atmosphere": {
+        "title": "Ambiance Chaleureuse",
+        "description": "Int\u00e9rieurs remplis d'antiquit\u00e9s, \u00e9clairage doux et le d\u00e9cor parfait pour chaque occasion."
+      },
+      "quality": {
+        "title": "Qualit\u00e9 Constante",
+        "description": "Les m\u00eames hauts standards dans chaque emplacement, chaque plat, chaque soir\u00e9e."
+      },
+      "accessible": {
+        "title": "Premium Accessible",
+        "description": "Une exp\u00e9rience premium sans pr\u00e9tention. Tout le monde est bienvenu chez Amadeus."
+      }
+    },
+    "quote": "\"Nous ne voulions pas seulement servir des ribs. Nous voulions cr\u00e9er des soir\u00e9es dont les gens se souviennent.\""
+  },
+  "locations": {
+    "meta": {
+      "title": "Nos Restaurants - Trouvez Votre Amadeus",
+      "description": "Visitez Amadeus \u00e0 Gand, Bruxelles, Anvers ou Lozer. Cinq restaurants uniques avec ribs \u00e0 volont\u00e9."
+    },
+    "heroTitle": "Nos Restaurants",
+    "heroSubtitle": "Cinq emplacements uniques en Belgique. Une exp\u00e9rience l\u00e9gendaire.",
+    "gent1": {
+      "name": "Amadeus Gand 1 \u2014 Patershol",
+      "shortName": "Gand Patershol",
+      "description": "L'Amadeus original. Nich\u00e9 dans le charmant quartier Patershol, notre premier restaurant sert des ribs l\u00e9gendaires depuis plus de 25 ans.",
+      "features": "Emplacement historique Patershol \u2022 L'Amadeus original \u2022 Int\u00e9rieur rempli d'antiquit\u00e9s \u2022 Terrasse"
+    },
+    "gent2": {
+      "name": "Amadeus Gand 2 \u2014 Belfort",
+      "shortName": "Gand Belfort",
+      "description": "Situ\u00e9 au Gouden Leeuwplein pr\u00e8s du Belfort iconique, notre deuxi\u00e8me emplacement \u00e0 Gand offre la m\u00eame exp\u00e9rience l\u00e9gendaire avec une vue magnifique.",
+      "features": "Pr\u00e8s du Belfort \u2022 Grande capacit\u00e9 \u2022 Centre-ville \u2022 Id\u00e9al pour groupes"
+    },
+    "brussel": {
+      "name": "Amadeus Bruxelles",
+      "shortName": "Bruxelles",
+      "description": "Au c\u0153ur de Bruxelles pr\u00e8s de Sainte-Catherine, Amadeus apporte son exp\u00e9rience iconique \u00e0 la capitale.",
+      "features": "Pr\u00e8s de la Grand-Place \u2022 Centre-ville \u2022 Int\u00e9rieur unique \u2022 Accueil touristique"
+    },
+    "antwerpen": {
+      "name": "Amadeus Anvers",
+      "shortName": "Anvers",
+      "description": "Sur la belle Suikerrui avec vue sur la Cath\u00e9drale, Amadeus Anvers est l'endroit parfait avant un \u00e9v\u00e9nement.",
+      "features": "Vue sur la Cath\u00e9drale \u2022 Pr\u00e8s du Sportpaleis \u2022 Centre-ville \u2022 D\u00eener pr\u00e9-\u00e9v\u00e9nement"
+    },
+    "lozer": {
+      "name": "Amadeus Lozer",
+      "shortName": "Lozer",
+      "description": "Notre perle \u00e0 la campagne \u00e0 Kruishoutem. Un cadre spacieux et d\u00e9tendu avec un grand jardin.",
+      "features": "Cadre champagne \u2022 Grand jardin \u2022 200+ places \u2022 Parking ample"
+    },
+    "brugge": {
+      "name": "Amadeus Bruges",
+      "shortName": "Bruges",
+      "description": "Amadeus arrive \u00e0 Bruges! Notre plus nouvel emplacement ouvrira ses portes en 2026.",
+      "features": "Bruges historique \u2022 Ouverture 2026"
+    },
+    "openingHours": "Heures d'ouverture",
+    "closed": "Ferm\u00e9",
+    "address": "Adresse",
+    "phone": "T\u00e9l\u00e9phone",
+    "reserveHere": "R\u00e9server \u00e0 Cet Emplacement",
+    "viewOnMap": "Voir sur Google Maps",
+    "getDirections": "Itin\u00e9raire"
+  },
+  "menu": {
+    "meta": {
+      "title": "Menu - Ribs \u00e0 Volont\u00e9 & Plus",
+      "description": "D\u00e9couvrez le menu Amadeus. Spare ribs \u00e0 volont\u00e9, sp\u00e9cialit\u00e9s grillades, salades fra\u00eeches et notre c\u00e9l\u00e8bre Irish Coffee."
+    },
+    "heroTitle": "Notre Menu",
+    "heroSubtitle": "Des ribs l\u00e9gendaires aux desserts irr\u00e9sistibles. Chaque plat pr\u00e9par\u00e9 avec passion.",
+    "signatureOverline": "Notre Sp\u00e9cialit\u00e9",
+    "signatureTitle": "Spare Ribs \u00e0 Volont\u00e9",
+    "signatureDescription": "Le c\u0153ur d'Amadeus. Choisissez votre gla\u00e7age pr\u00e9f\u00e9r\u00e9, profitez de ribs illimit\u00e9es avec accompagnements et mangez \u00e0 votre faim.",
+    "allYouCanEat": "\u00c0 volont\u00e9",
+    "perPerson": "par personne",
+    "categories": {
+      "ribs": "Ribs",
+      "grill": "Grillades",
+      "starters": "Entr\u00e9es",
+      "salads": "Salades",
+      "desserts": "Desserts",
+      "drinks": "Boissons"
+    },
+    "items": {
+      "spareribs": { "name": "Spare Ribs Classiques", "description": "Nos ribs signature avec marinade maison, cuites lentement. \u00c0 volont\u00e9 avec frites et salade." },
+      "spareribs_bbq": { "name": "Spare Ribs BBQ", "description": "Ribs glac\u00e9es au barbecue fum\u00e9, caram\u00e9lis\u00e9es et irr\u00e9sistibles. \u00c0 volont\u00e9." },
+      "spareribs_honey": { "name": "Spare Ribs Miel Moutarde", "description": "Gla\u00e7age miel doux et moutarde sur des ribs tendres. \u00c0 volont\u00e9." },
+      "mixed_grill": { "name": "Mixed Grill", "description": "Un plateau g\u00e9n\u00e9reux de viandes grill\u00e9es avec l\u00e9gumes et frites." },
+      "salmon": { "name": "Saumon Grill\u00e9", "description": "Saumon atlantique frais, parfaitement grill\u00e9, avec beurre citron-herbes." },
+      "prawns": { "name": "Crevettes Royales", "description": "Succulentes crevettes royales au beurre d'ail, servies avec riz et salade." },
+      "soup": { "name": "Soupe du Jour", "description": "Pr\u00e9par\u00e9e fra\u00eeche chaque jour avec des ingr\u00e9dients de saison." },
+      "garlic_bread": { "name": "Pain \u00e0 l'Ail", "description": "Baguette croustillante avec beurre d'ail fondu et herbes." },
+      "caesar": { "name": "Salade C\u00e9sar", "description": "Laitue romaine, parmesan, cro\u00fbtons et sauce C\u00e9sar classique." },
+      "veggie": { "name": "Assiette V\u00e9g\u00e9tarienne", "description": "S\u00e9lection color\u00e9e de l\u00e9gumes, houmous et c\u00e9r\u00e9ales." },
+      "dame_blanche": { "name": "Dame Blanche", "description": "Glace vanille avec sauce chocolat belge chaude et cr\u00e8me fouett\u00e9e." },
+      "tiramisu": { "name": "Tiramisu", "description": "Tiramisu classique avec cr\u00e8me mascarpone et biscuits imbib\u00e9s d'espresso." },
+      "irish_coffee": { "name": "Irish Coffee", "description": "Notre c\u00e9l\u00e8bre Irish Coffee. Caf\u00e9 riche, whiskey irlandais et cr\u00e8me fra\u00eeche." },
+      "house_wine_red": { "name": "Vin Rouge Maison", "description": "Vin rouge soigneusement s\u00e9lectionn\u00e9 au verre." },
+      "house_wine_white": { "name": "Vin Blanc Maison", "description": "Vin blanc rafra\u00eechissant au verre." }
+    },
+    "cta": "R\u00e9servez Votre Table"
+  },
+  "reservations": {
+    "meta": {
+      "title": "R\u00e9server une Table",
+      "description": "R\u00e9servez votre table chez Amadeus. R\u00e9servation en ligne facile. Les ribs \u00e0 volont\u00e9 vous attendent."
+    },
+    "heroTitle": "R\u00e9server une Table",
+    "heroSubtitle": "Assurez votre place pour une soir\u00e9e inoubliable de ribs l\u00e9gendaires.",
+    "form": {
+      "location": "Choisir l'Emplacement",
+      "date": "Date",
+      "time": "Heure",
+      "guests": "Nombre d'Invit\u00e9s",
+      "name": "Nom Complet",
+      "email": "Email",
+      "phone": "Num\u00e9ro de T\u00e9l\u00e9phone",
+      "specialRequests": "Demandes Sp\u00e9ciales",
+      "specialRequestsPlaceholder": "Allergies, c\u00e9l\u00e9brations, pr\u00e9f\u00e9rences de place...",
+      "submit": "R\u00e9server Maintenant",
+      "submitting": "R\u00e9servation en cours...",
+      "success": "R\u00e9servation Confirm\u00e9e!",
+      "successMessage": "Vous recevrez bient\u00f4t un email de confirmation.",
+      "guestsSuffix": "invit\u00e9s"
+    },
+    "note": "Pour les r\u00e9servations le jour m\u00eame apr\u00e8s 17h, appelez le restaurant directement.",
+    "walkIn": "Pas de r\u00e9servation? Vous \u00eates quand m\u00eame le bienvenu! Les walk-ins sont accept\u00e9s selon disponibilit\u00e9.",
+    "groupNote": "Vous planifiez un groupe de 10+? Consultez notre {link}.",
+    "groupLink": "page groupes & \u00e9v\u00e9nements"
+  },
+  "groups": {
+    "meta": {
+      "title": "Groupes & \u00c9v\u00e9nements - C\u00e9l\u00e9brez chez Amadeus",
+      "description": "Planifiez votre d\u00eener de groupe chez Amadeus. Menus personnalis\u00e9s pour groupes de 10 \u00e0 200+ invit\u00e9s."
+    },
+    "heroTitle": "Groupes & \u00c9v\u00e9nements",
+    "heroSubtitle": "Le cadre parfait pour les f\u00eates, d\u00eeners d'\u00e9quipe et exp\u00e9riences de groupe inoubliables.",
+    "intro": {
+      "title": "C\u00e9l\u00e9brez avec des Ribs L\u00e9gendaires",
+      "description": "Anniversaire, \u00e9v\u00e9nement d'\u00e9quipe, r\u00e9union de famille ou toute occasion sp\u00e9ciale \u2014 Amadeus a l'espace, l'ambiance et la nourriture pour rendre l'occasion m\u00e9morable.",
+      "cta": "Contactez-Nous pour Groupes"
+    },
+    "features": {
+      "title": "Ce Que Nous Offrons",
+      "capacity": { "title": "Capacit\u00e9 Flexible", "description": "De groupes intimes de 10 \u00e0 c\u00e9l\u00e9brations de 200+." },
+      "menus": { "title": "Menus de Groupe Sur Mesure", "description": "Packages standard ou menu personnalis\u00e9 pour votre \u00e9v\u00e9nement." },
+      "locations": { "title": "Cinq Lieux Uniques", "description": "Chaque emplacement offre son propre caract\u00e8re." },
+      "service": { "title": "Service D\u00e9di\u00e9", "description": "Un coordinateur personnel pour votre \u00e9v\u00e9nement." }
+    },
+    "form": {
+      "title": "Demander une Proposition de Groupe",
+      "name": "Nom du Contact",
+      "email": "Email",
+      "phone": "T\u00e9l\u00e9phone",
+      "company": "Organisation / Entreprise",
+      "eventType": "Type d'\u00c9v\u00e9nement",
+      "eventTypes": {
+        "birthday": "Anniversaire",
+        "corporate": "\u00c9v\u00e9nement d'Entreprise",
+        "family": "R\u00e9union de Famille",
+        "teamBuilding": "Team Building",
+        "other": "Autre"
+      },
+      "location": "Emplacement Pr\u00e9f\u00e9r\u00e9",
+      "date": "Date Pr\u00e9f\u00e9r\u00e9e",
+      "guests": "Nombre Estim\u00e9 d'Invit\u00e9s",
+      "message": "Parlez-Nous de Votre \u00c9v\u00e9nement",
+      "submit": "Envoyer la Demande"
+    }
+  },
+  "jobs": {
+    "meta": {
+      "title": "Jobs - Travaillez chez Amadeus",
+      "description": "Rejoignez l'\u00e9quipe Amadeus. Nous cherchons des personnes passionn\u00e9es."
+    },
+    "heroTitle": "Travaillez Avec Nous",
+    "heroSubtitle": "Rejoignez une \u00e9quipe passionn\u00e9e par la bonne cuisine et l'hospitalit\u00e9 chaleureuse.",
+    "intro": "Amadeus cherche toujours des membres d'\u00e9quipe enthousiastes.",
+    "positions": {
+      "title": "Postes Ouverts",
+      "server": { "title": "Serveur/Serveuse", "description": "Service chaleureux et attentif.", "locations": "Tous les emplacements" },
+      "kitchen": { "title": "Personnel de Cuisine", "description": "Aidez \u00e0 pr\u00e9parer nos ribs l\u00e9gendaires.", "locations": "Gand 1, Gand 2, Bruxelles" },
+      "bartender": { "title": "Bartender", "description": "Pr\u00e9parez nos c\u00e9l\u00e8bres Irish Coffees.", "locations": "Anvers, Gand 2" }
+    },
+    "apply": "Postuler",
+    "spontaneous": {
+      "title": "Candidature Spontan\u00e9e",
+      "description": "Vous ne voyez pas le poste id\u00e9al? Envoyez-nous vos coordonn\u00e9es."
+    }
+  },
+  "contact": {
+    "meta": { "title": "Contact", "description": "Contactez Amadeus. Questions, commentaires ou propositions de groupe." },
+    "heroTitle": "Contactez-Nous",
+    "heroSubtitle": "Questions, commentaires ou propositions? Nous sommes \u00e0 votre \u00e9coute.",
+    "note": "Pour les r\u00e9servations, utilisez notre {link}.",
+    "reservationLink": "page de r\u00e9servation",
+    "form": {
+      "name": "Votre Nom",
+      "email": "Votre Email",
+      "subject": "Sujet",
+      "subjects": { "general": "Question G\u00e9n\u00e9rale", "feedback": "Commentaire", "complaint": "Plainte", "group": "Proposition de Groupe", "website": "Probl\u00e8me Site Web" },
+      "location": "Concernant l'Emplacement",
+      "message": "Votre Message",
+      "submit": "Envoyer"
+    },
+    "info": { "title": "Nos Emplacements" }
+  },
+  "faq": {
+    "meta": { "title": "Questions Fr\u00e9quentes", "description": "Tout ce que vous devez savoir sur Amadeus." },
+    "heroTitle": "Questions Fr\u00e9quentes",
+    "heroSubtitle": "Tout ce que vous devez savoir sur Amadeus.",
+    "categories": { "all": "Tout", "reservations": "R\u00e9servations", "menu": "Menu", "locations": "Emplacements", "events": "\u00c9v\u00e9nements", "practical": "Pratique" },
+    "items": {
+      "allYouCanEat": { "question": "Comment fonctionne le concept \u00e0 volont\u00e9?", "answer": "Choisissez votre gla\u00e7age pr\u00e9f\u00e9r\u00e9 et nous continuons \u00e0 servir jusqu'\u00e0 ce que vous disiez stop. Ribs illimit\u00e9es, frites et salade incluses!" },
+      "reservation": { "question": "Dois-je r\u00e9server?", "answer": "Nous recommandons de r\u00e9server, surtout les weekends. R\u00e9servation en ligne ou par t\u00e9l\u00e9phone. Walk-ins bienvenus selon disponibilit\u00e9." },
+      "walkIn": { "question": "Puis-je venir sans r\u00e9servation?", "answer": "Absolument! Les walk-ins sont bienvenus. Nous ne pouvons pas garantir une table aux heures de pointe." },
+      "groupBooking": { "question": "Comment r\u00e9server pour un grand groupe?", "answer": "Pour 10+ personnes, contactez-nous via notre page Groupes. Pour 40+, nous pouvons ouvrir en dehors des heures r\u00e9guli\u00e8res." },
+      "sameDay": { "question": "Puis-je r\u00e9server le jour m\u00eame?", "answer": "Oui! R\u00e9servation en ligne jusqu'\u00e0 17h. Apr\u00e8s, appelez le restaurant." },
+      "vegetarian": { "question": "Avez-vous des options v\u00e9g\u00e9tariennes?", "answer": "Oui, salades, assiette v\u00e9g\u00e9tarienne, soupes et accompagnements v\u00e9g\u00e9tariens disponibles." },
+      "giftVoucher": { "question": "Puis-je acheter un bon cadeau?", "answer": "Oui! Bons cadeaux disponibles dans tous nos emplacements." },
+      "parking": { "question": "Y a-t-il du parking?", "answer": "Notre restaurant de Lozer dispose d'un grand parking gratuit. Pour les villes, nous recommandons les parkings publics." },
+      "privateEvent": { "question": "Puis-je organiser un \u00e9v\u00e9nement priv\u00e9?", "answer": "Oui! \u00c9v\u00e9nements priv\u00e9s possibles. Pour 40+, ouverture en dehors des heures possibles." },
+      "locations": { "question": "Combien d'emplacements a Amadeus?", "answer": "Cinq emplacements: deux \u00e0 Gand, un \u00e0 Bruxelles, un \u00e0 Anvers et un \u00e0 Lozer. Bruges ouvre en 2026!" },
+      "openingHours": { "question": "Quels sont vos horaires?", "answer": "Mardi \u00e0 dimanche pour le d\u00eener (d\u00e8s 18h), dimanche aussi pour le d\u00e9jeuner (d\u00e8s 12h). Ferm\u00e9 le lundi." },
+      "children": { "question": "Les enfants sont-ils bienvenus?", "answer": "Amadeus est familial. Les enfants profitent de nos ribs \u00e0 prix r\u00e9duit. Chaises hautes disponibles." }
+    },
+    "cta": "Encore des questions? {link}",
+    "ctaLink": "Contactez-nous"
+  },
+  "footer": {
+    "tagline": "The Original Place for Ribs",
+    "description": "Le restaurant iconique de spare ribs \u00e0 volont\u00e9 en Belgique. Cinq emplacements uniques depuis 1998.",
+    "navigation": "Navigation",
+    "ourLocations": "Nos Emplacements",
+    "followUs": "Suivez-Nous",
+    "newsletter": "Restez inform\u00e9 de nos derni\u00e8res nouvelles.",
+    "copyright": "\u00a9 {year} Amadeus Restaurant. Tous droits r\u00e9serv\u00e9s.",
+    "privacy": "Politique de Confidentialit\u00e9",
+    "cookies": "Politique de Cookies",
+    "terms": "Conditions G\u00e9n\u00e9rales"
+  },
+  "common": {
+    "readMore": "En savoir plus",
+    "reserve": "R\u00e9server",
+    "viewMenu": "Voir le Menu",
+    "phone": "T\u00e9l\u00e9phone",
+    "address": "Adresse",
+    "openingHours": "Heures d'ouverture",
+    "closed": "Ferm\u00e9",
+    "reopening": "R\u00e9ouverture {year}",
+    "learnMore": "En savoir plus",
+    "backToLocations": "Retour aux Emplacements",
+    "days": {
+      "monday": "Lundi",
+      "tuesday": "Mardi",
+      "wednesday": "Mercredi",
+      "thursday": "Jeudi",
+      "friday": "Vendredi",
+      "saturday": "Samedi",
+      "sunday": "Dimanche"
+    }
+  }
+}

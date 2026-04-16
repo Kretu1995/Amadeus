@@ -1,0 +1,497 @@
+{
+  "metadata": {
+    "title": "Amadeus - The Original Place for Ribs",
+    "description": "Belgium's iconic all-you-can-eat spareribs restaurant. Five unique locations in Ghent, Brussels, Antwerp and Lozer. Book your table now.",
+    "ogTitle": "Amadeus Restaurant | Legendary Ribs Since 1998"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Our Story",
+    "locations": "Locations",
+    "menu": "Menu",
+    "reserve": "Reserve",
+    "groups": "Groups & Events",
+    "jobs": "Jobs",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "tagline": "The Original Place for Ribs",
+    "subtitle": "All-you-can-eat spareribs in a warm, atmospheric setting. Five iconic locations across Belgium.",
+    "cta": "Reserve a Table",
+    "ctaMenu": "View Menu",
+    "scrollHint": "Discover more"
+  },
+  "concept": {
+    "ribs": "All-You-Can-Eat Ribs",
+    "ribsDesc": "Our legendary spareribs, glazed to perfection and served until you say stop.",
+    "locations": "5 Iconic Locations",
+    "locationsDesc": "From historic Ghent to vibrant Brussels and Antwerp.",
+    "heritage": "25+ Years of Flavor",
+    "heritageDesc": "A quarter century of unforgettable dining experiences."
+  },
+  "ribsShowcase": {
+    "overline": "Our Signature",
+    "title": "Ribs That Made Us Famous",
+    "description": "Slow-cooked to fall-off-the-bone tenderness, glazed with our secret house sauce, and served in generous portions. At Amadeus, ribs aren't just a dish \u2014 they're an experience. Enjoy our all-you-can-eat spareribs with unlimited sides in a setting that feels like home.",
+    "cta": "Explore the Menu"
+  },
+  "locationsSection": {
+    "overline": "Our Restaurants",
+    "title": "Find Your Amadeus",
+    "subtitle": "Five unique locations, each with its own character. One unforgettable experience.",
+    "viewAll": "View All Locations",
+    "reopening": "Reopening {year}",
+    "comingSoon": "Coming Soon"
+  },
+  "testimonials": {
+    "overline": "What Our Guests Say",
+    "title": "Unforgettable Evenings",
+    "items": [
+      {
+        "quote": "The best ribs I've ever had. The atmosphere is incredible and the all-you-can-eat concept is unbeatable. We keep coming back!",
+        "author": "Sophie D.",
+        "location": "Gent"
+      },
+      {
+        "quote": "Perfect for our group dinner. 20 friends, endless ribs, amazing evening. Amadeus never disappoints.",
+        "author": "Thomas V.",
+        "location": "Antwerpen"
+      },
+      {
+        "quote": "A must-visit when in Belgium. The interior alone is worth the trip, and the ribs are simply outstanding.",
+        "author": "Maria L.",
+        "location": "Brussel"
+      },
+      {
+        "quote": "We celebrated our anniversary here and it was perfect. Warm atmosphere, generous portions, and that Irish Coffee to finish \u2014 magical.",
+        "author": "Jan & Lien",
+        "location": "Gent"
+      }
+    ]
+  },
+  "groupDining": {
+    "overline": "Groups & Events",
+    "title": "Celebrate Together",
+    "description": "From intimate dinners to grand celebrations with 40+ guests. Amadeus is the perfect setting for birthdays, team events, family gatherings, and unforgettable group experiences.",
+    "cta": "Plan Your Group Event",
+    "features": ["Flexible group menus", "Private dining options", "Custom arrangements for 40+ guests", "All five locations available"]
+  },
+  "reservationBanner": {
+    "title": "Ready for Legendary Ribs?",
+    "subtitle": "Reserve your table at any of our five locations.",
+    "cta": "Reserve Now"
+  },
+  "about": {
+    "meta": {
+      "title": "Our Story - 25+ Years of Legendary Ribs",
+      "description": "Discover the Amadeus story. From a single restaurant in Ghent's Patershol to five beloved locations across Belgium."
+    },
+    "heroTitle": "Our Story",
+    "heroSubtitle": "A quarter century of legendary ribs, warm atmospheres, and unforgettable evenings.",
+    "origin": {
+      "overline": "Where It All Began",
+      "title": "From Patershol to All of Belgium",
+      "p1": "In 1998, Amadeus opened its doors in the heart of Ghent's Patershol district. What started as a simple idea \u2014 serve the best ribs at the best price in the warmest atmosphere \u2014 quickly became a beloved Belgian institution.",
+      "p2": "Today, with five locations across Ghent, Brussels, Antwerp, and Lozer, we continue to live by the same philosophy that made our first guests fall in love: generous portions, genuine hospitality, and ribs that keep you coming back.",
+      "p3": "Each Amadeus restaurant has its own unique character, housed in carefully restored historic buildings filled with antiques, warm lighting, and the unmistakable aroma of ribs on the grill."
+    },
+    "values": {
+      "overline": "What We Believe",
+      "title": "Our Values",
+      "generous": {
+        "title": "Generous Portions",
+        "description": "All-you-can-eat isn't just our concept \u2014 it's our promise. No one leaves hungry."
+      },
+      "atmosphere": {
+        "title": "Warm Atmosphere",
+        "description": "Antique-filled interiors, soft lighting, and the perfect backdrop for every occasion."
+      },
+      "quality": {
+        "title": "Consistent Quality",
+        "description": "The same high standards across every location, every dish, every evening."
+      },
+      "accessible": {
+        "title": "Accessible Premium",
+        "description": "Premium dining without the pretension. Everyone is welcome at Amadeus."
+      }
+    },
+    "quote": "\"We didn't just want to serve ribs. We wanted to create evenings people remember.\""
+  },
+  "locations": {
+    "meta": {
+      "title": "Our Restaurants - Find Your Nearest Amadeus",
+      "description": "Visit Amadeus in Ghent, Brussels, Antwerp, or Lozer. Five unique restaurants, each with all-you-can-eat ribs and unforgettable atmosphere."
+    },
+    "heroTitle": "Our Restaurants",
+    "heroSubtitle": "Five unique locations across Belgium. One legendary experience.",
+    "gent1": {
+      "name": "Amadeus Gent 1 \u2014 Patershol",
+      "shortName": "Gent Patershol",
+      "description": "The original Amadeus. Nestled in the charming Patershol district, our first restaurant has been serving legendary ribs for over 25 years. A historic building filled with antiques and warm atmosphere.",
+      "features": "Historic Patershol location \u2022 The original Amadeus \u2022 Antique-filled interior \u2022 Terrace available"
+    },
+    "gent2": {
+      "name": "Amadeus Gent 2 \u2014 Belfort",
+      "shortName": "Gent Belfort",
+      "description": "Located at the Gouden Leeuwplein near the iconic Belfort tower, our second Ghent location offers the same legendary ribs experience with stunning city center views. Spacious and perfect for large groups.",
+      "features": "Near the Belfort \u2022 Large capacity \u2022 City center \u2022 Group-friendly"
+    },
+    "brussel": {
+      "name": "Amadeus Brussel",
+      "shortName": "Brussel",
+      "description": "In the heart of Brussels near Sint-Katelijne, Amadeus brings its iconic ribs experience to the capital. A unique setting where Belgian heritage meets unforgettable flavors.",
+      "features": "Near Grand Place \u2022 City center \u2022 Unique interior \u2022 Tourist-friendly"
+    },
+    "antwerpen": {
+      "name": "Amadeus Antwerpen",
+      "shortName": "Antwerpen",
+      "description": "On the beautiful Suikerrui with views of the Cathedral, Amadeus Antwerp is the perfect pre-event dinner spot. Ideal before concerts at Sportpaleis or a night out in the city.",
+      "features": "Cathedral view \u2022 Near Sportpaleis \u2022 City center \u2022 Pre-event dining"
+    },
+    "lozer": {
+      "name": "Amadeus Lozer",
+      "shortName": "Lozer",
+      "description": "Our countryside gem in Kruishoutem. Amadeus Lozer offers a more spacious and relaxed setting with a large garden. Perfect for large groups and celebrations in a rural Belgian atmosphere.",
+      "features": "Countryside setting \u2022 Large garden \u2022 200+ capacity \u2022 Ample parking"
+    },
+    "brugge": {
+      "name": "Amadeus Brugge",
+      "shortName": "Brugge",
+      "description": "Amadeus is coming to Bruges! Our newest location in this historic city will open its doors in 2026. Stay tuned for more details.",
+      "features": "Historic Bruges \u2022 Opening 2026"
+    },
+    "openingHours": "Opening Hours",
+    "closed": "Closed",
+    "address": "Address",
+    "phone": "Phone",
+    "reserveHere": "Reserve at This Location",
+    "viewOnMap": "View on Google Maps",
+    "getDirections": "Get Directions"
+  },
+  "menu": {
+    "meta": {
+      "title": "Menu - All-You-Can-Eat Ribs & More",
+      "description": "Discover the Amadeus menu. All-you-can-eat spareribs, grilled specialties, fresh salads, desserts, and our famous Irish Coffee."
+    },
+    "heroTitle": "Our Menu",
+    "heroSubtitle": "From legendary ribs to irresistible desserts. Every dish crafted with passion.",
+    "signatureOverline": "Our Signature",
+    "signatureTitle": "All-You-Can-Eat Spareribs",
+    "signatureDescription": "The heart of Amadeus. Choose your favorite glaze, enjoy unlimited ribs with sides, and eat until your heart's content. Our ribs are slow-cooked for hours, tender on the inside with a perfect char on the outside.",
+    "allYouCanEat": "All-you-can-eat",
+    "perPerson": "per person",
+    "categories": {
+      "ribs": "Ribs",
+      "grill": "From the Grill",
+      "starters": "Starters",
+      "salads": "Salads",
+      "desserts": "Desserts",
+      "drinks": "Drinks"
+    },
+    "items": {
+      "spareribs": {
+        "name": "Classic Spareribs",
+        "description": "Our signature ribs with house marinade, slow-cooked to perfection. Served all-you-can-eat with fries and salad."
+      },
+      "spareribs_bbq": {
+        "name": "BBQ Spareribs",
+        "description": "Smoky barbecue glazed ribs, caramelized and irresistible. All-you-can-eat with sides."
+      },
+      "spareribs_honey": {
+        "name": "Honey Mustard Spareribs",
+        "description": "Sweet honey and tangy mustard glaze over tender spareribs. All-you-can-eat."
+      },
+      "mixed_grill": {
+        "name": "Mixed Grill",
+        "description": "A generous platter of grilled meats with seasonal vegetables and fries."
+      },
+      "salmon": {
+        "name": "Grilled Salmon",
+        "description": "Fresh Atlantic salmon, perfectly grilled, with a lemon-herb butter and seasonal sides."
+      },
+      "prawns": {
+        "name": "King Prawns",
+        "description": "Succulent king prawns in garlic butter, served with rice and fresh salad."
+      },
+      "soup": {
+        "name": "Soup of the Day",
+        "description": "Freshly made daily with seasonal ingredients. Ask your server for today's creation."
+      },
+      "garlic_bread": {
+        "name": "Garlic Bread",
+        "description": "Crispy baguette with melted garlic butter and herbs."
+      },
+      "caesar": {
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce, parmesan, croutons, and classic Caesar dressing."
+      },
+      "veggie": {
+        "name": "Vegetarian Plate",
+        "description": "A colorful selection of seasonal vegetables, hummus, and grains."
+      },
+      "dame_blanche": {
+        "name": "Dame Blanche",
+        "description": "Vanilla ice cream with warm Belgian chocolate sauce and whipped cream."
+      },
+      "tiramisu": {
+        "name": "Tiramisu",
+        "description": "Classic Italian tiramisu with mascarpone cream and espresso-soaked ladyfingers."
+      },
+      "irish_coffee": {
+        "name": "Irish Coffee",
+        "description": "Our famous Irish Coffee. Rich coffee, Irish whiskey, and fresh cream. A perfect ending."
+      },
+      "house_wine_red": {
+        "name": "House Red Wine",
+        "description": "Carefully selected red wine by the glass."
+      },
+      "house_wine_white": {
+        "name": "House White Wine",
+        "description": "Refreshing white wine by the glass."
+      }
+    },
+    "cta": "Reserve Your Table"
+  },
+  "reservations": {
+    "meta": {
+      "title": "Reserve a Table - Book Online",
+      "description": "Book your table at Amadeus. Easy online reservation at any of our five locations. All-you-can-eat ribs await you."
+    },
+    "heroTitle": "Reserve a Table",
+    "heroSubtitle": "Secure your spot for an unforgettable evening of legendary ribs.",
+    "form": {
+      "location": "Choose Location",
+      "date": "Date",
+      "time": "Time",
+      "guests": "Number of Guests",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "specialRequests": "Special Requests",
+      "specialRequestsPlaceholder": "Allergies, celebrations, seating preferences...",
+      "submit": "Reserve Now",
+      "submitting": "Reserving...",
+      "success": "Reservation Confirmed!",
+      "successMessage": "You'll receive a confirmation email shortly.",
+      "guestsSuffix": "guests"
+    },
+    "note": "For same-day reservations after 5 PM, please call the restaurant directly.",
+    "walkIn": "No reservation? You're still welcome! Walk-ins are accepted subject to availability.",
+    "groupNote": "Planning a group of 10+? Check our {link} for custom arrangements.",
+    "groupLink": "groups & events page"
+  },
+  "groups": {
+    "meta": {
+      "title": "Groups & Events - Celebrate at Amadeus",
+      "description": "Plan your group dinner, birthday, team event, or celebration at Amadeus. Custom menus for groups of 10 to 200+ guests."
+    },
+    "heroTitle": "Groups & Events",
+    "heroSubtitle": "The perfect setting for celebrations, team dinners, and unforgettable group experiences.",
+    "intro": {
+      "title": "Celebrate with Legendary Ribs",
+      "description": "Whether it's a birthday, team event, family reunion, or any special occasion \u2014 Amadeus has the space, the atmosphere, and the food to make it memorable. Our locations accommodate groups from 10 to 200+ guests, with custom menu options and dedicated service.",
+      "cta": "Contact Us for Groups"
+    },
+    "features": {
+      "title": "What We Offer",
+      "capacity": {
+        "title": "Flexible Capacity",
+        "description": "From intimate groups of 10 to celebrations of 200+. For groups of 40+, we even open outside regular hours."
+      },
+      "menus": {
+        "title": "Custom Group Menus",
+        "description": "Choose from our standard group packages or create a custom menu tailored to your event."
+      },
+      "locations": {
+        "title": "Five Unique Venues",
+        "description": "Each Amadeus location offers its own character \u2014 from city center to countryside."
+      },
+      "service": {
+        "title": "Dedicated Service",
+        "description": "A personal coordinator to ensure your event runs smoothly from start to finish."
+      }
+    },
+    "form": {
+      "title": "Request a Group Proposal",
+      "name": "Contact Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "company": "Organization / Company",
+      "eventType": "Event Type",
+      "eventTypes": {
+        "birthday": "Birthday",
+        "corporate": "Corporate Event",
+        "family": "Family Gathering",
+        "teamBuilding": "Team Building",
+        "other": "Other"
+      },
+      "location": "Preferred Location",
+      "date": "Preferred Date",
+      "guests": "Estimated Number of Guests",
+      "message": "Tell Us About Your Event",
+      "submit": "Send Request"
+    }
+  },
+  "jobs": {
+    "meta": {
+      "title": "Jobs - Work at Amadeus",
+      "description": "Join the Amadeus team. We're looking for passionate people to join our restaurants in Ghent, Brussels, Antwerp, and Lozer."
+    },
+    "heroTitle": "Work With Us",
+    "heroSubtitle": "Join a team that's passionate about great food, warm hospitality, and unforgettable experiences.",
+    "intro": "Amadeus is always looking for enthusiastic team members. Whether you're an experienced server, a kitchen professional, or looking for your first job in hospitality \u2014 we'd love to hear from you.",
+    "positions": {
+      "title": "Current Openings",
+      "server": {
+        "title": "Server / Waiter",
+        "description": "Provide warm, attentive service to our guests. Experience in hospitality is a plus but not required.",
+        "locations": "All locations"
+      },
+      "kitchen": {
+        "title": "Kitchen Staff",
+        "description": "Join our kitchen team. Help prepare our legendary ribs and other dishes.",
+        "locations": "Gent 1, Gent 2, Brussel"
+      },
+      "bartender": {
+        "title": "Bartender",
+        "description": "Craft our famous Irish Coffees and serve drinks with flair.",
+        "locations": "Antwerpen, Gent 2"
+      }
+    },
+    "apply": "Apply Now",
+    "spontaneous": {
+      "title": "Spontaneous Application",
+      "description": "Don't see your perfect role? We're always interested in meeting passionate people. Send us your details and we'll be in touch."
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact Us",
+      "description": "Get in touch with Amadeus. Questions, feedback, or group proposals \u2014 we're here to help."
+    },
+    "heroTitle": "Contact Us",
+    "heroSubtitle": "Questions, feedback, or proposals? We'd love to hear from you.",
+    "note": "For reservations, please use our {link}.",
+    "reservationLink": "reservation page",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "subjects": {
+        "general": "General Question",
+        "feedback": "Feedback",
+        "complaint": "Complaint",
+        "group": "Group Proposal",
+        "website": "Website Issue"
+      },
+      "location": "Regarding Location",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Our Locations"
+    }
+  },
+  "faq": {
+    "meta": {
+      "title": "Frequently Asked Questions",
+      "description": "Everything you need to know about Amadeus. Reservations, menus, group bookings, and more."
+    },
+    "heroTitle": "Frequently Asked Questions",
+    "heroSubtitle": "Everything you need to know about dining at Amadeus.",
+    "categories": {
+      "all": "All",
+      "reservations": "Reservations",
+      "menu": "Menu",
+      "locations": "Locations",
+      "events": "Events",
+      "practical": "Practical"
+    },
+    "items": {
+      "allYouCanEat": {
+        "question": "How does the all-you-can-eat concept work?",
+        "answer": "At Amadeus, you choose your favorite rib glaze and we keep serving until you say stop. Your meal includes unlimited spareribs, fries, and salad. It's our signature concept and the reason people keep coming back!"
+      },
+      "reservation": {
+        "question": "Do I need a reservation?",
+        "answer": "We recommend making a reservation, especially for weekends and holidays. You can book online through our website or call the restaurant directly. Walk-ins are welcome subject to availability."
+      },
+      "walkIn": {
+        "question": "Can I walk in without a reservation?",
+        "answer": "Absolutely! Walk-ins are welcome at all our locations. However, we can't guarantee a table during peak hours, so we recommend reserving in advance for the best experience."
+      },
+      "groupBooking": {
+        "question": "How do I book for a large group?",
+        "answer": "For groups of 10 or more, we recommend contacting us through our Groups & Events page. For groups of 40+, we can even open outside regular hours. We offer custom group menus and dedicated service."
+      },
+      "sameDay": {
+        "question": "Can I make a same-day reservation?",
+        "answer": "Yes! You can book online for same-day dining until 5 PM. After 5 PM, please call the restaurant directly to check availability."
+      },
+      "vegetarian": {
+        "question": "Do you have vegetarian options?",
+        "answer": "Yes, our menu includes vegetarian dishes such as salads, a vegetarian plate, soups, and several sides. While ribs are our specialty, we make sure everyone at the table has something delicious to enjoy."
+      },
+      "giftVoucher": {
+        "question": "Can I buy a gift voucher?",
+        "answer": "Yes! Gift vouchers are available at all our locations. They make a perfect gift for any rib lover. Ask at the restaurant or contact us for more information."
+      },
+      "parking": {
+        "question": "Is there parking available?",
+        "answer": "Parking varies by location. Our Lozer restaurant has ample free parking. For city locations (Ghent, Brussels, Antwerp), we recommend public parking garages nearby. Our staff can provide directions."
+      },
+      "privateEvent": {
+        "question": "Can I host a private event?",
+        "answer": "Yes! We can accommodate private events and celebrations at all our locations. For exclusive use of the restaurant, groups of 40+ can book outside regular hours. Contact us for a custom proposal."
+      },
+      "locations": {
+        "question": "How many locations does Amadeus have?",
+        "answer": "Amadeus currently has five operating locations: two in Ghent (Patershol and Belfort), one in Brussels, one in Antwerp, and one in Lozer (Kruishoutem). We're also opening a new location in Bruges in 2026!"
+      },
+      "openingHours": {
+        "question": "What are your opening hours?",
+        "answer": "Most of our restaurants are open Tuesday to Sunday for dinner service (from 18:00) and on Sundays also for lunch (from 12:00). We're closed on Mondays. Hours may vary by location \u2014 check the specific location page for details."
+      },
+      "children": {
+        "question": "Are children welcome?",
+        "answer": "Amadeus is a family-friendly restaurant. Children are very welcome, and they can enjoy our all-you-can-eat ribs at a reduced price. High chairs are available at all locations."
+      }
+    },
+    "cta": "Still have questions? {link}",
+    "ctaLink": "Contact us"
+  },
+  "footer": {
+    "tagline": "The Original Place for Ribs",
+    "description": "Belgium's iconic all-you-can-eat spareribs restaurant. Five unique locations with unforgettable atmosphere since 1998.",
+    "navigation": "Navigation",
+    "ourLocations": "Our Locations",
+    "followUs": "Follow Us",
+    "newsletter": "Stay in touch with our latest news and offers.",
+    "copyright": "\u00a9 {year} Amadeus Restaurant. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "terms": "Terms & Conditions"
+  },
+  "common": {
+    "readMore": "Read more",
+    "reserve": "Reserve",
+    "viewMenu": "View Menu",
+    "phone": "Phone",
+    "address": "Address",
+    "openingHours": "Opening Hours",
+    "closed": "Closed",
+    "reopening": "Reopening {year}",
+    "learnMore": "Learn More",
+    "backToLocations": "Back to All Locations",
+    "days": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    }
+  }
+}

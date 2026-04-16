@@ -1,0 +1,497 @@
+{
+  "metadata": {
+    "title": "Amadeus - The Original Place for Ribs",
+    "description": "Het iconische all-you-can-eat spareribs restaurant van Belgi\u00eb. Vijf unieke locaties in Gent, Brussel, Antwerpen en Lozer. Reserveer nu je tafel.",
+    "ogTitle": "Amadeus Restaurant | Legendarische Ribs Sinds 1998"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Ons Verhaal",
+    "locations": "Locaties",
+    "menu": "Menu",
+    "reserve": "Reserveren",
+    "groups": "Groepen & Events",
+    "jobs": "Jobs",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "tagline": "The Original Place for Ribs",
+    "subtitle": "All-you-can-eat spareribs in een warme, sfeervolle setting. Vijf iconische locaties in Belgi\u00eb.",
+    "cta": "Reserveer een Tafel",
+    "ctaMenu": "Bekijk Menu",
+    "scrollHint": "Ontdek meer"
+  },
+  "concept": {
+    "ribs": "All-You-Can-Eat Ribs",
+    "ribsDesc": "Onze legendarische spareribs, perfect geglazuurd en geserveerd tot je zegt dat het genoeg is.",
+    "locations": "5 Iconische Locaties",
+    "locationsDesc": "Van het historische Gent tot het bruisende Brussel en Antwerpen.",
+    "heritage": "25+ Jaar Smaak",
+    "heritageDesc": "Een kwarteeuw van onvergetelijke dinerervaringen."
+  },
+  "ribsShowcase": {
+    "overline": "Ons Paradepaardje",
+    "title": "De Ribs Die Ons Beroemd Maakten",
+    "description": "Langzaam gegaard tot ze van het bot vallen, geglazuurd met onze geheime huissaus en geserveerd in royale porties. Bij Amadeus zijn ribs niet zomaar een gerecht \u2014 ze zijn een ervaring. Geniet van onze all-you-can-eat spareribs met onbeperkte bijgerechten in een setting die voelt als thuis.",
+    "cta": "Bekijk het Menu"
+  },
+  "locationsSection": {
+    "overline": "Onze Restaurants",
+    "title": "Vind Jouw Amadeus",
+    "subtitle": "Vijf unieke locaties, elk met een eigen karakter. E\u00e9n onvergetelijke ervaring.",
+    "viewAll": "Bekijk Alle Locaties",
+    "reopening": "Heropening {year}",
+    "comingSoon": "Binnenkort"
+  },
+  "testimonials": {
+    "overline": "Wat Onze Gasten Zeggen",
+    "title": "Onvergetelijke Avonden",
+    "items": [
+      {
+        "quote": "De beste ribs die ik ooit heb gegeten. De sfeer is ongelooflijk en het all-you-can-eat concept is niet te overtreffen. We blijven terugkomen!",
+        "author": "Sophie D.",
+        "location": "Gent"
+      },
+      {
+        "quote": "Perfect voor ons groepsdiner. 20 vrienden, eindeloze ribs, geweldige avond. Amadeus stelt nooit teleur.",
+        "author": "Thomas V.",
+        "location": "Antwerpen"
+      },
+      {
+        "quote": "Een must-visit als je in Belgi\u00eb bent. Het interieur alleen al is de reis waard, en de ribs zijn simpelweg uitstekend.",
+        "author": "Maria L.",
+        "location": "Brussel"
+      },
+      {
+        "quote": "We vierden ons jubileum hier en het was perfect. Warme sfeer, royale porties en die Irish Coffee als afsluiter \u2014 magisch.",
+        "author": "Jan & Lien",
+        "location": "Gent"
+      }
+    ]
+  },
+  "groupDining": {
+    "overline": "Groepen & Events",
+    "title": "Samen Vieren",
+    "description": "Van intieme diners tot grote feesten met 40+ gasten. Amadeus is de perfecte setting voor verjaardagen, teamevents, familiebijeenkomsten en onvergetelijke groepservaringen.",
+    "cta": "Plan Je Groepsevent",
+    "features": ["Flexibele groepsmenu's", "Priv\u00e9-dineroptie", "Maatwerk voor 40+ gasten", "Alle vijf locaties beschikbaar"]
+  },
+  "reservationBanner": {
+    "title": "Klaar voor Legendarische Ribs?",
+    "subtitle": "Reserveer je tafel bij een van onze vijf locaties.",
+    "cta": "Reserveer Nu"
+  },
+  "about": {
+    "meta": {
+      "title": "Ons Verhaal - 25+ Jaar Legendarische Ribs",
+      "description": "Ontdek het verhaal van Amadeus. Van \u00e9\u00e9n restaurant in het Patershol tot vijf geliefde locaties in heel Belgi\u00eb."
+    },
+    "heroTitle": "Ons Verhaal",
+    "heroSubtitle": "Een kwarteeuw van legendarische ribs, warme sfeer en onvergetelijke avonden.",
+    "origin": {
+      "overline": "Waar Het Allemaal Begon",
+      "title": "Van Patershol tot Heel Belgi\u00eb",
+      "p1": "In 1998 opende Amadeus zijn deuren in het hart van het Gentse Patershol. Wat begon als een simpel idee \u2014 de beste ribs serveren aan de beste prijs in de warmste sfeer \u2014 werd al snel een geliefd Belgisch instituut.",
+      "p2": "Vandaag, met vijf locaties in Gent, Brussel, Antwerpen en Lozer, leven we nog steeds volgens dezelfde filosofie die onze eerste gasten deed terugkomen: royale porties, oprechte gastvrijheid en ribs die je doen terugkomen.",
+      "p3": "Elk Amadeus-restaurant heeft zijn eigen unieke karakter, gehuisvest in zorgvuldig gerestaureerde historische gebouwen vol antiek, warme verlichting en de onmiskenbare geur van ribs op de grill."
+    },
+    "values": {
+      "overline": "Waar We In Geloven",
+      "title": "Onze Waarden",
+      "generous": {
+        "title": "Royale Porties",
+        "description": "All-you-can-eat is niet zomaar ons concept \u2014 het is onze belofte. Niemand gaat hongerig naar huis."
+      },
+      "atmosphere": {
+        "title": "Warme Sfeer",
+        "description": "Interieurs vol antiek, zachte verlichting en het perfecte decor voor elke gelegenheid."
+      },
+      "quality": {
+        "title": "Consistente Kwaliteit",
+        "description": "Dezelfde hoge standaard op elke locatie, bij elk gerecht, elke avond."
+      },
+      "accessible": {
+        "title": "Toegankelijk Premium",
+        "description": "Premium dineren zonder pretentie. Iedereen is welkom bij Amadeus."
+      }
+    },
+    "quote": "\"We wilden niet alleen ribs serveren. We wilden avonden cre\u00ebren die mensen zich herinneren.\""
+  },
+  "locations": {
+    "meta": {
+      "title": "Onze Restaurants - Vind Je Dichtstbijzijnde Amadeus",
+      "description": "Bezoek Amadeus in Gent, Brussel, Antwerpen of Lozer. Vijf unieke restaurants met all-you-can-eat ribs en onvergetelijke sfeer."
+    },
+    "heroTitle": "Onze Restaurants",
+    "heroSubtitle": "Vijf unieke locaties in Belgi\u00eb. E\u00e9n legendarische ervaring.",
+    "gent1": {
+      "name": "Amadeus Gent 1 \u2014 Patershol",
+      "shortName": "Gent Patershol",
+      "description": "Het originele Amadeus. Verscholen in de charmante Patershol-wijk serveert ons eerste restaurant al meer dan 25 jaar legendarische ribs. Een historisch gebouw vol antiek en warme sfeer.",
+      "features": "Historische Patershol-locatie \u2022 Het originele Amadeus \u2022 Interieur vol antiek \u2022 Terras beschikbaar"
+    },
+    "gent2": {
+      "name": "Amadeus Gent 2 \u2014 Belfort",
+      "shortName": "Gent Belfort",
+      "description": "Gelegen aan het Gouden Leeuwplein bij het iconische Belfort biedt onze tweede Gentse locatie dezelfde legendarische ribs-ervaring met prachtig uitzicht op het stadscentrum. Ruim en perfect voor grote groepen.",
+      "features": "Bij het Belfort \u2022 Grote capaciteit \u2022 Stadscentrum \u2022 Groepsvriendelijk"
+    },
+    "brussel": {
+      "name": "Amadeus Brussel",
+      "shortName": "Brussel",
+      "description": "In het hart van Brussel bij Sint-Katelijne brengt Amadeus zijn iconische ribs-ervaring naar de hoofdstad. Een unieke setting waar Belgisch erfgoed onvergetelijke smaken ontmoet.",
+      "features": "Bij de Grote Markt \u2022 Stadscentrum \u2022 Uniek interieur \u2022 Toeristenvriendelijk"
+    },
+    "antwerpen": {
+      "name": "Amadeus Antwerpen",
+      "shortName": "Antwerpen",
+      "description": "Aan de prachtige Suikerrui met uitzicht op de Kathedraal is Amadeus Antwerpen de perfecte plek voor een diner voor een evenement. Ideaal voor concerten in het Sportpaleis of een avondje uit in de stad.",
+      "features": "Uitzicht op de Kathedraal \u2022 Bij Sportpaleis \u2022 Stadscentrum \u2022 Pre-event dining"
+    },
+    "lozer": {
+      "name": "Amadeus Lozer",
+      "shortName": "Lozer",
+      "description": "Ons pareltje op het platteland in Kruishoutem. Amadeus Lozer biedt een ruimere en ontspannen setting met een grote tuin. Perfect voor grote groepen en feesten in een landelijke Belgische sfeer.",
+      "features": "Landelijke setting \u2022 Grote tuin \u2022 200+ capaciteit \u2022 Ruime parking"
+    },
+    "brugge": {
+      "name": "Amadeus Brugge",
+      "shortName": "Brugge",
+      "description": "Amadeus komt naar Brugge! Onze nieuwste locatie in deze historische stad opent haar deuren in 2026. Blijf op de hoogte voor meer details.",
+      "features": "Historisch Brugge \u2022 Opening 2026"
+    },
+    "openingHours": "Openingsuren",
+    "closed": "Gesloten",
+    "address": "Adres",
+    "phone": "Telefoon",
+    "reserveHere": "Reserveer bij Deze Locatie",
+    "viewOnMap": "Bekijk op Google Maps",
+    "getDirections": "Routebeschrijving"
+  },
+  "menu": {
+    "meta": {
+      "title": "Menu - All-You-Can-Eat Ribs & Meer",
+      "description": "Ontdek het Amadeus menu. All-you-can-eat spareribs, grill specialiteiten, verse salades, desserts en onze beroemde Irish Coffee."
+    },
+    "heroTitle": "Ons Menu",
+    "heroSubtitle": "Van legendarische ribs tot onweerstaanbare desserts. Elk gerecht met passie bereid.",
+    "signatureOverline": "Ons Paradepaardje",
+    "signatureTitle": "All-You-Can-Eat Spareribs",
+    "signatureDescription": "Het hart van Amadeus. Kies je favoriete glazuur, geniet van onbeperkte ribs met bijgerechten en eet tot je hartenlust. Onze ribs worden urenlang langzaam gegaard, mals van binnen met een perfecte korst aan de buitenkant.",
+    "allYouCanEat": "All-you-can-eat",
+    "perPerson": "per persoon",
+    "categories": {
+      "ribs": "Ribs",
+      "grill": "Van de Grill",
+      "starters": "Voorgerechten",
+      "salads": "Salades",
+      "desserts": "Desserts",
+      "drinks": "Dranken"
+    },
+    "items": {
+      "spareribs": {
+        "name": "Klassieke Spareribs",
+        "description": "Onze kenmerkende ribs met huismarinade, langzaam gegaard tot perfectie. All-you-can-eat geserveerd met frietjes en salade."
+      },
+      "spareribs_bbq": {
+        "name": "BBQ Spareribs",
+        "description": "Rokerig barbecue geglazuurde ribs, gekarameliseerd en onweerstaanbaar. All-you-can-eat met bijgerechten."
+      },
+      "spareribs_honey": {
+        "name": "Honing Mosterd Spareribs",
+        "description": "Zoete honing en pittige mosterdglazuur over malse spareribs. All-you-can-eat."
+      },
+      "mixed_grill": {
+        "name": "Mixed Grill",
+        "description": "Een royale schotel van gegrild vlees met seizoensgroenten en frietjes."
+      },
+      "salmon": {
+        "name": "Gegrilde Zalm",
+        "description": "Verse Atlantische zalm, perfect gegrild, met een citroen-kruidenboter en seizoensgarnituur."
+      },
+      "prawns": {
+        "name": "Koningsgarnalen",
+        "description": "Sappige koningsgarnalen in lookboter, geserveerd met rijst en verse salade."
+      },
+      "soup": {
+        "name": "Soep van de Dag",
+        "description": "Dagelijks vers bereid met seizoensingredi\u00ebnten. Vraag je bedienaar naar de creatie van vandaag."
+      },
+      "garlic_bread": {
+        "name": "Lookbrood",
+        "description": "Knapperig stokbrood met gesmolten lookboter en kruiden."
+      },
+      "caesar": {
+        "name": "Caesar Salade",
+        "description": "Krokante romaine sla, parmezaan, croutons en klassieke Caesardressing."
+      },
+      "veggie": {
+        "name": "Vegetarisch Bord",
+        "description": "Een kleurrijke selectie van seizoensgroenten, hummus en granen."
+      },
+      "dame_blanche": {
+        "name": "Dame Blanche",
+        "description": "Vanille-ijs met warme Belgische chocoladesaus en slagroom."
+      },
+      "tiramisu": {
+        "name": "Tiramisu",
+        "description": "Klassieke Italiaanse tiramisu met mascarpone cr\u00e8me en espresso-gedrenkte lange vingers."
+      },
+      "irish_coffee": {
+        "name": "Irish Coffee",
+        "description": "Onze beroemde Irish Coffee. Rijke koffie, Ierse whiskey en verse room. Het perfecte einde."
+      },
+      "house_wine_red": {
+        "name": "Huiswijn Rood",
+        "description": "Zorgvuldig geselecteerde rode wijn per glas."
+      },
+      "house_wine_white": {
+        "name": "Huiswijn Wit",
+        "description": "Verfrissende witte wijn per glas."
+      }
+    },
+    "cta": "Reserveer Je Tafel"
+  },
+  "reservations": {
+    "meta": {
+      "title": "Reserveer een Tafel - Boek Online",
+      "description": "Boek je tafel bij Amadeus. Eenvoudig online reserveren bij een van onze vijf locaties. All-you-can-eat ribs wachten op je."
+    },
+    "heroTitle": "Reserveer een Tafel",
+    "heroSubtitle": "Verzeker je plek voor een onvergetelijke avond vol legendarische ribs.",
+    "form": {
+      "location": "Kies Locatie",
+      "date": "Datum",
+      "time": "Tijd",
+      "guests": "Aantal Gasten",
+      "name": "Volledige Naam",
+      "email": "E-mail",
+      "phone": "Telefoonnummer",
+      "specialRequests": "Speciale Verzoeken",
+      "specialRequestsPlaceholder": "Allergie\u00ebn, feestje, zitplaatsvoorkeur...",
+      "submit": "Reserveer Nu",
+      "submitting": "Reserveren...",
+      "success": "Reservering Bevestigd!",
+      "successMessage": "Je ontvangt binnenkort een bevestigingsmail.",
+      "guestsSuffix": "gasten"
+    },
+    "note": "Voor reserveringen op dezelfde dag na 17u, bel het restaurant rechtstreeks.",
+    "walkIn": "Geen reservering? Je bent alsnog welkom! Walk-ins worden aanvaard op basis van beschikbaarheid.",
+    "groupNote": "Een groep van 10+? Bekijk onze {link} voor maatwerk.",
+    "groupLink": "groepen & events pagina"
+  },
+  "groups": {
+    "meta": {
+      "title": "Groepen & Events - Vier bij Amadeus",
+      "description": "Plan je groepsdiner, verjaardag, teamevent of feest bij Amadeus. Maatmenu's voor groepen van 10 tot 200+ gasten."
+    },
+    "heroTitle": "Groepen & Events",
+    "heroSubtitle": "De perfecte setting voor feesten, teamdiners en onvergetelijke groepservaringen.",
+    "intro": {
+      "title": "Vier met Legendarische Ribs",
+      "description": "Of het nu een verjaardag, teamevent, familiereünie of een andere speciale gelegenheid is \u2014 Amadeus heeft de ruimte, de sfeer en het eten om het onvergetelijk te maken. Onze locaties bieden plaats aan groepen van 10 tot 200+ gasten, met aangepaste menu-opties en toegewijde service.",
+      "cta": "Contacteer Ons voor Groepen"
+    },
+    "features": {
+      "title": "Wat We Bieden",
+      "capacity": {
+        "title": "Flexibele Capaciteit",
+        "description": "Van intieme groepen van 10 tot feesten van 200+. Voor groepen van 40+ openen we zelfs buiten de reguliere uren."
+      },
+      "menus": {
+        "title": "Aangepaste Groepsmenu's",
+        "description": "Kies uit onze standaard groepspakketten of stel een menu op maat samen voor je evenement."
+      },
+      "locations": {
+        "title": "Vijf Unieke Locaties",
+        "description": "Elke Amadeus-locatie biedt een eigen karakter \u2014 van stadscentrum tot platteland."
+      },
+      "service": {
+        "title": "Toegewijde Service",
+        "description": "Een persoonlijke co\u00f6rdinator om ervoor te zorgen dat je evenement vlekkeloos verloopt."
+      }
+    },
+    "form": {
+      "title": "Vraag een Groepsvoorstel Aan",
+      "name": "Contactpersoon",
+      "email": "E-mail",
+      "phone": "Telefoonnummer",
+      "company": "Organisatie / Bedrijf",
+      "eventType": "Type Evenement",
+      "eventTypes": {
+        "birthday": "Verjaardag",
+        "corporate": "Bedrijfsevent",
+        "family": "Familiebijeenkomst",
+        "teamBuilding": "Teambuilding",
+        "other": "Andere"
+      },
+      "location": "Gewenste Locatie",
+      "date": "Gewenste Datum",
+      "guests": "Geschat Aantal Gasten",
+      "message": "Vertel Ons Over Je Evenement",
+      "submit": "Verstuur Aanvraag"
+    }
+  },
+  "jobs": {
+    "meta": {
+      "title": "Jobs - Werk bij Amadeus",
+      "description": "Sluit je aan bij het Amadeus-team. We zoeken gepassioneerde mensen voor onze restaurants in Gent, Brussel, Antwerpen en Lozer."
+    },
+    "heroTitle": "Werk Bij Ons",
+    "heroSubtitle": "Sluit je aan bij een team dat gepassioneerd is over lekker eten, warme gastvrijheid en onvergetelijke ervaringen.",
+    "intro": "Amadeus is altijd op zoek naar enthousiaste teamleden. Of je nu een ervaren ober bent, een keukenprofessional of op zoek bent naar je eerste baan in de horeca \u2014 we horen graag van je.",
+    "positions": {
+      "title": "Openstaande Functies",
+      "server": {
+        "title": "Ober / Serveerster",
+        "description": "Bied warme, attente service aan onze gasten. Ervaring in de horeca is een plus maar niet vereist.",
+        "locations": "Alle locaties"
+      },
+      "kitchen": {
+        "title": "Keukenpersoneel",
+        "description": "Sluit je aan bij ons keukenteam. Help bij het bereiden van onze legendarische ribs en andere gerechten.",
+        "locations": "Gent 1, Gent 2, Brussel"
+      },
+      "bartender": {
+        "title": "Bartender",
+        "description": "Bereid onze beroemde Irish Coffees en serveer drankjes met flair.",
+        "locations": "Antwerpen, Gent 2"
+      }
+    },
+    "apply": "Solliciteer Nu",
+    "spontaneous": {
+      "title": "Spontane Sollicitatie",
+      "description": "Zie je niet de perfecte functie? We zijn altijd ge\u00efnteresseerd in het ontmoeten van gepassioneerde mensen. Stuur ons je gegevens en we nemen contact op."
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact",
+      "description": "Neem contact op met Amadeus. Vragen, feedback of groepsvoorstellen \u2014 we helpen je graag."
+    },
+    "heroTitle": "Contact",
+    "heroSubtitle": "Vragen, feedback of voorstellen? We horen graag van je.",
+    "note": "Voor reserveringen gebruik je onze {link}.",
+    "reservationLink": "reserveringspagina",
+    "form": {
+      "name": "Je Naam",
+      "email": "Je E-mail",
+      "subject": "Onderwerp",
+      "subjects": {
+        "general": "Algemene Vraag",
+        "feedback": "Feedback",
+        "complaint": "Klacht",
+        "group": "Groepsvoorstel",
+        "website": "Website Probleem"
+      },
+      "location": "Betreffende Locatie",
+      "message": "Je Bericht",
+      "submit": "Verstuur Bericht"
+    },
+    "info": {
+      "title": "Onze Locaties"
+    }
+  },
+  "faq": {
+    "meta": {
+      "title": "Veelgestelde Vragen",
+      "description": "Alles wat je moet weten over Amadeus. Reserveringen, menu's, groepsboekingen en meer."
+    },
+    "heroTitle": "Veelgestelde Vragen",
+    "heroSubtitle": "Alles wat je moet weten over dineren bij Amadeus.",
+    "categories": {
+      "all": "Alles",
+      "reservations": "Reserveringen",
+      "menu": "Menu",
+      "locations": "Locaties",
+      "events": "Events",
+      "practical": "Praktisch"
+    },
+    "items": {
+      "allYouCanEat": {
+        "question": "Hoe werkt het all-you-can-eat concept?",
+        "answer": "Bij Amadeus kies je je favoriete ribglazuur en wij blijven serveren tot je zegt dat het genoeg is. Je maaltijd bevat onbeperkte spareribs, frietjes en salade. Het is ons kenmerkende concept en de reden waarom mensen blijven terugkomen!"
+      },
+      "reservation": {
+        "question": "Moet ik reserveren?",
+        "answer": "We raden aan om te reserveren, vooral voor weekends en feestdagen. Je kunt online boeken via onze website of het restaurant rechtstreeks bellen. Walk-ins zijn welkom op basis van beschikbaarheid."
+      },
+      "walkIn": {
+        "question": "Kan ik binnenlopen zonder reservering?",
+        "answer": "Absoluut! Walk-ins zijn welkom in al onze locaties. We kunnen echter geen tafel garanderen tijdens piekuren, dus we raden aan om van tevoren te reserveren."
+      },
+      "groupBooking": {
+        "question": "Hoe boek ik voor een grote groep?",
+        "answer": "Voor groepen van 10 of meer raden we aan om contact met ons op te nemen via onze Groepen & Events pagina. Voor groepen van 40+ kunnen we zelfs buiten reguliere uren openen."
+      },
+      "sameDay": {
+        "question": "Kan ik op dezelfde dag reserveren?",
+        "answer": "Ja! Je kunt online boeken voor dezelfde dag tot 17u. Na 17u bel je het restaurant rechtstreeks om beschikbaarheid te checken."
+      },
+      "vegetarian": {
+        "question": "Hebben jullie vegetarische opties?",
+        "answer": "Ja, ons menu bevat vegetarische gerechten zoals salades, een vegetarisch bord, soepen en verschillende bijgerechten. Ribs zijn onze specialiteit, maar we zorgen ervoor dat iedereen aan tafel iets lekkers heeft."
+      },
+      "giftVoucher": {
+        "question": "Kan ik een cadeaubon kopen?",
+        "answer": "Ja! Cadeaubonnen zijn beschikbaar in al onze locaties. Ze zijn het perfecte cadeau voor elke ribbenliefhebber."
+      },
+      "parking": {
+        "question": "Is er parking beschikbaar?",
+        "answer": "Parking varieert per locatie. Ons restaurant in Lozer heeft ruime gratis parking. Voor stadslocaties raden we nabijgelegen parkeergarages aan."
+      },
+      "privateEvent": {
+        "question": "Kan ik een priv\u00e9-evenement organiseren?",
+        "answer": "Ja! We kunnen priv\u00e9-evenementen accommoderen in al onze locaties. Voor exclusief gebruik kunnen groepen van 40+ buiten reguliere uren boeken."
+      },
+      "locations": {
+        "question": "Hoeveel locaties heeft Amadeus?",
+        "answer": "Amadeus heeft momenteel vijf actieve locaties: twee in Gent (Patershol en Belfort), \u00e9\u00e9n in Brussel, \u00e9\u00e9n in Antwerpen en \u00e9\u00e9n in Lozer (Kruishoutem). We openen ook een nieuwe locatie in Brugge in 2026!"
+      },
+      "openingHours": {
+        "question": "Wat zijn de openingsuren?",
+        "answer": "De meeste restaurants zijn open van dinsdag tot zondag voor dinerservice (vanaf 18u) en op zondag ook voor lunch (vanaf 12u). Maandag zijn we gesloten. Uren kunnen per locatie verschillen."
+      },
+      "children": {
+        "question": "Zijn kinderen welkom?",
+        "answer": "Amadeus is een gezinsvriendelijk restaurant. Kinderen zijn zeer welkom en kunnen genieten van onze all-you-can-eat ribs aan een gereduceerde prijs. Kinderstoelen zijn beschikbaar."
+      }
+    },
+    "cta": "Nog vragen? {link}",
+    "ctaLink": "Contacteer ons"
+  },
+  "footer": {
+    "tagline": "The Original Place for Ribs",
+    "description": "Het iconische all-you-can-eat spareribs restaurant van Belgi\u00eb. Vijf unieke locaties met onvergetelijke sfeer sinds 1998.",
+    "navigation": "Navigatie",
+    "ourLocations": "Onze Locaties",
+    "followUs": "Volg Ons",
+    "newsletter": "Blijf op de hoogte van ons laatste nieuws en aanbiedingen.",
+    "copyright": "\u00a9 {year} Amadeus Restaurant. Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "cookies": "Cookiebeleid",
+    "terms": "Algemene Voorwaarden"
+  },
+  "common": {
+    "readMore": "Lees meer",
+    "reserve": "Reserveren",
+    "viewMenu": "Bekijk Menu",
+    "phone": "Telefoon",
+    "address": "Adres",
+    "openingHours": "Openingsuren",
+    "closed": "Gesloten",
+    "reopening": "Heropening {year}",
+    "learnMore": "Meer Info",
+    "backToLocations": "Terug naar Alle Locaties",
+    "days": {
+      "monday": "Maandag",
+      "tuesday": "Dinsdag",
+      "wednesday": "Woensdag",
+      "thursday": "Donderdag",
+      "friday": "Vrijdag",
+      "saturday": "Zaterdag",
+      "sunday": "Zondag"
+    }
+  }
+}
