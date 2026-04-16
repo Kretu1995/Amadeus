@@ -35,7 +35,7 @@ export function RibsShowcase() {
                 <div
                   className="w-full h-full bg-cover bg-center"
                   style={{
-                    backgroundImage: `url('/images/menu/spareribs-classic.jpg')`,
+                    backgroundImage: `url('/images/menu/spareribs-bbq.jpg')`,
                   }}
                 />
               </motion.div>

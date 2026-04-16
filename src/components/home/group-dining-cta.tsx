@@ -19,7 +19,7 @@ export function GroupDiningCTA() {
       <div className="absolute inset-0 opacity-5">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/hero/ribs-hero-1.jpg')" }}
+          style={{ backgroundImage: "url('/images/hero/ribs-hero-2.jpg')" }}
         />
       </div>
 

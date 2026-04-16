@@ -14,7 +14,7 @@ export function ReservationBanner() {
       <div className="absolute inset-0">
         <div
           className="absolute inset-0 bg-cover bg-center bg-fixed"
-          style={{ backgroundImage: "url('/images/hero/ribs-hero-1.jpg')" }}
+          style={{ backgroundImage: "url('/images/locations/interior-atmosphere.jpg')" }}
         />
         <div className="absolute inset-0 bg-black/80" />
         <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-transparent" />

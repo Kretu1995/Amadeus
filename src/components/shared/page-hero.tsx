@@ -12,7 +12,7 @@ interface PageHeroProps {
 export function PageHero({
   title,
   subtitle,
-  backgroundImage = "/images/hero/ribs-hero-1.jpg",
+  backgroundImage = "/images/locations/interior-atmosphere.jpg",
 }: PageHeroProps) {
   return (
     <section className="relative h-[50vh] min-h-[400px] flex items-center justify-center overflow-hidden">
