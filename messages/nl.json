@@ -302,7 +302,10 @@
       "submitting": "Reserveren...",
       "success": "Reservering Bevestigd!",
       "successMessage": "Je ontvangt binnenkort een bevestigingsmail.",
-      "guestsSuffix": "gasten"
+      "guestsSuffix": "gasten",
+      "next": "Volgende",
+      "back": "Terug",
+      "edit": "Wijzig"
     },
     "note": "Voor reserveringen op dezelfde dag na 17u, bel het restaurant rechtstreeks.",
     "walkIn": "Geen reservering? Je bent alsnog welkom! Walk-ins worden aanvaard op basis van beschikbaarheid.",

@@ -302,7 +302,10 @@
       "submitting": "R\u00e9servation en cours...",
       "success": "R\u00e9servation Confirm\u00e9e!",
       "successMessage": "Vous recevrez bient\u00f4t un email de confirmation.",
-      "guestsSuffix": "invit\u00e9s"
+      "guestsSuffix": "invit\u00e9s",
+      "next": "Suivant",
+      "back": "Retour",
+      "edit": "Modifier"
     },
     "note": "Pour les r\u00e9servations le jour m\u00eame apr\u00e8s 17h, appelez le restaurant directement.",
     "walkIn": "Pas de r\u00e9servation? Vous \u00eates quand m\u00eame le bienvenu! Les walk-ins sont accept\u00e9s selon disponibilit\u00e9.",

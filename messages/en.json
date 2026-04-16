@@ -302,7 +302,10 @@
       "submitting": "Reserving...",
       "success": "Reservation Confirmed!",
       "successMessage": "You'll receive a confirmation email shortly.",
-      "guestsSuffix": "guests"
+      "guestsSuffix": "guests",
+      "next": "Next",
+      "back": "Back",
+      "edit": "Edit"
     },
     "note": "For same-day reservations after 5 PM, please call the restaurant directly.",
     "walkIn": "No reservation? You're still welcome! Walk-ins are accepted subject to availability.",
