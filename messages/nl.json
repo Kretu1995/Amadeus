@@ -307,6 +307,8 @@
       "back": "Terug",
       "edit": "Wijzig"
     },
+    "openingHours": "Openingsuren",
+    "closed": "Gesloten",
     "note": "Voor reserveringen op dezelfde dag na 17u, bel het restaurant rechtstreeks.",
     "walkIn": "Geen reservering? Je bent alsnog welkom! Walk-ins worden aanvaard op basis van beschikbaarheid.",
     "groupNote": "Een groep van 10+? Bekijk onze {link} voor maatwerk.",

@@ -307,6 +307,8 @@
       "back": "Back",
       "edit": "Edit"
     },
+    "openingHours": "Opening Hours",
+    "closed": "Closed",
     "note": "For same-day reservations after 5 PM, please call the restaurant directly.",
     "walkIn": "No reservation? You're still welcome! Walk-ins are accepted subject to availability.",
     "groupNote": "Planning a group of 10+? Check our {link} for custom arrangements.",

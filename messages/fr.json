@@ -307,6 +307,8 @@
       "back": "Retour",
       "edit": "Modifier"
     },
+    "openingHours": "Heures d'Ouverture",
+    "closed": "Ferm\u00e9",
     "note": "Pour les r\u00e9servations le jour m\u00eame apr\u00e8s 17h, appelez le restaurant directement.",
     "walkIn": "Pas de r\u00e9servation? Vous \u00eates quand m\u00eame le bienvenu! Les walk-ins sont accept\u00e9s selon disponibilit\u00e9.",
     "groupNote": "Vous planifiez un groupe de 10+? Consultez notre {link}.",
