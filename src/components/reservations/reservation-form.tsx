@@ -181,13 +181,13 @@ export function ReservationForm() {
             {/* Two column layout: iframe + sidebar */}
             <div className="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8">
               {/* Iframe */}
-              <div className="rounded-xl overflow-hidden">
+              <div>
                 {selectedLoc?.bookingUrl && (
                   <iframe
                     src={selectedLoc.bookingUrl}
                     title={`RestoManager - ${selectedLoc.shortName}`}
-                    className="w-full border-0 bg-transparent"
-                    style={{ height: "1000px" }}
+                    className="w-full border-0 rounded-xl"
+                    style={{ height: "1000px", background: "#1e1e1e" }}
                     allow="payment"
                     scrolling="no"
                   />
