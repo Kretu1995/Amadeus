@@ -175,15 +175,20 @@ export function ReservationForm() {
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8">
             {/* RestoManager widget */}
             <div
-              className="rounded-2xl overflow-hidden shadow-xl shadow-black/20 border border-border relative"
-              style={{ height: "750px" }}
+              className="rounded-2xl overflow-hidden relative"
+              style={{ height: "780px" }}
             >
               {selectedLoc?.bookingUrl && (
                 <iframe
                   src={selectedLoc.bookingUrl}
                   title={`RestoManager - ${selectedLoc.shortName}`}
-                  className="absolute inset-0 w-full border-0"
-                  style={{ height: "1000px" }}
+                  className="absolute border-0"
+                  style={{
+                    top: "-20px",
+                    left: "-20px",
+                    width: "calc(100% + 40px)",
+                    height: "1100px",
+                  }}
                   allow="payment"
                 />
               )}
