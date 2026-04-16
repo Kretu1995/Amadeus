@@ -1,11 +1,12 @@
 export type MenuCategory =
-  | "ribs"
-  | "grill"
   | "starters"
-  | "salads"
+  | "mains"
+  | "specials"
   | "desserts"
-  | "drinks"
-  | "specials";
+  | "aperitifs"
+  | "beers"
+  | "wines"
+  | "drinks";
 
 export type DietaryTag = "vegetarian" | "vegan" | "glutenFree" | "spicy";
 

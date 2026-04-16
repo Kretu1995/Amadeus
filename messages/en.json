@@ -182,74 +182,102 @@
     "allYouCanEat": "All-you-can-eat",
     "perPerson": "per person",
     "categories": {
-      "ribs": "Ribs",
-      "grill": "From the Grill",
       "starters": "Starters",
-      "salads": "Salads",
+      "mains": "Main Courses",
+      "specials": "Specials & Kids",
       "desserts": "Desserts",
-      "drinks": "Drinks"
+      "aperitifs": "Aperitifs",
+      "beers": "Beers",
+      "wines": "Wines & Spirits",
+      "drinks": "Beverages & Coffee"
     },
     "items": {
-      "spareribs": {
-        "name": "Classic Spareribs",
-        "description": "Our signature ribs with house marinade, slow-cooked to perfection. Served all-you-can-eat with fries and salad."
-      },
-      "spareribs_bbq": {
-        "name": "BBQ Spareribs",
-        "description": "Smoky barbecue glazed ribs, caramelized and irresistible. All-you-can-eat with sides."
-      },
-      "spareribs_honey": {
-        "name": "Honey Mustard Spareribs",
-        "description": "Sweet honey and tangy mustard glaze over tender spareribs. All-you-can-eat."
-      },
-      "mixed_grill": {
-        "name": "Mixed Grill",
-        "description": "A generous platter of grilled meats with seasonal vegetables and fries."
-      },
-      "salmon": {
-        "name": "Grilled Salmon",
-        "description": "Fresh Atlantic salmon, perfectly grilled, with a lemon-herb butter and seasonal sides."
-      },
-      "prawns": {
-        "name": "King Prawns",
-        "description": "Succulent king prawns in garlic butter, served with rice and fresh salad."
-      },
-      "soup": {
-        "name": "Soup of the Day",
-        "description": "Freshly made daily with seasonal ingredients. Ask your server for today's creation."
-      },
-      "garlic_bread": {
-        "name": "Garlic Bread",
-        "description": "Crispy baguette with melted garlic butter and herbs."
-      },
-      "caesar": {
-        "name": "Caesar Salad",
-        "description": "Crisp romaine lettuce, parmesan, croutons, and classic Caesar dressing."
-      },
-      "veggie": {
-        "name": "Vegetarian Plate",
-        "description": "A colorful selection of seasonal vegetables, hummus, and grains."
-      },
-      "dame_blanche": {
-        "name": "Dame Blanche",
-        "description": "Vanilla ice cream with warm Belgian chocolate sauce and whipped cream."
-      },
-      "tiramisu": {
-        "name": "Tiramisu",
-        "description": "Classic Italian tiramisu with mascarpone cream and espresso-soaked ladyfingers."
-      },
-      "irish_coffee": {
-        "name": "Irish Coffee",
-        "description": "Our famous Irish Coffee. Rich coffee, Irish whiskey, and fresh cream. A perfect ending."
-      },
-      "house_wine_red": {
-        "name": "House Red Wine",
-        "description": "Carefully selected red wine by the glass."
-      },
-      "house_wine_white": {
-        "name": "House White Wine",
-        "description": "Refreshing white wine by the glass."
-      }
+      "tomatensoep": { "name": "Tomato Soup", "description": "Homemade tomato soup, freshly prepared daily." },
+      "seizoenssalade": { "name": "Seasonal Salad", "description": "Fresh salad with seasonal vegetables." },
+      "geitenkaas": { "name": "Grilled Goat Cheese", "description": "Warm gratinated goat cheese on a bed of salad." },
+      "carpaccio": { "name": "Beef Carpaccio", "description": "Thinly sliced beef carpaccio with parmesan, rocket, and truffle dressing." },
+
+      "spareribs_volonte": { "name": "Spareribs All-You-Can-Eat", "description": "Our legendary all-you-can-eat spareribs with fries and salad. The signature dish of Amadeus." },
+      "mixed_grill": { "name": "Mixed Grill", "description": "Three pieces: snack, chicken, and brochette with fries and salad." },
+      "gegrilde_garnalen": { "name": "Grilled Prawns", "description": "Three succulent grilled prawns with sides." },
+      "gegrilde_kipfilet": { "name": "Grilled Chicken Fillet", "description": "Tender grilled chicken fillet with seasonal garnish." },
+      "kalkoenbrochette": { "name": "Turkey Brochette", "description": "Juicy turkey brochette with vegetables and fries." },
+      "steak_bearnaise": { "name": "Steak with B\u00e9arnaise Sauce", "description": "Grilled steak served with classic b\u00e9arnaise sauce and fries." },
+      "steak_pepersaus": { "name": "Steak with Pepper Sauce", "description": "Grilled steak with creamy pepper sauce and fries." },
+      "vegetarische_suggestie": { "name": "Vegetarian Suggestion", "description": "Daily changing vegetarian dish. Ask your server." },
+
+      "specials_menu": { "name": "Specials Menu", "description": "Spareribs all-you-can-eat + Irish Coffee. The perfect combination." },
+      "belgian_beer_menu": { "name": "Belgian Beer Menu", "description": "Spareribs all-you-can-eat + Tripel Karmeliet + Belgian chocolate mousse." },
+      "kinder_spareribs": { "name": "Kids Spareribs", "description": "Kids portion of spareribs (not all-you-can-eat)." },
+      "kinder_kipfilet": { "name": "Kids Chicken Fillet", "description": "Grilled chicken fillet, kids size." },
+      "kinder_balletjes": { "name": "Kids Meatballs in Tomato Sauce", "description": "Meatballs in homemade tomato sauce." },
+      "kinder_kipnugget": { "name": "Kids Chicken Nugget Brochette", "description": "Chicken nuggets on a brochette, a kids favorite." },
+
+      "chocolademousse": { "name": "Chocolate Mousse", "description": "Creamy Belgian chocolate mousse." },
+      "rijstpap": { "name": "Rice Pudding with Speculaas", "description": "Homemade rice pudding with crunchy speculaas biscuit." },
+      "belgisch_sorbet": { "name": "Belgian Sorbet", "description": "Refreshing sorbet ice cream." },
+      "creme_brulee": { "name": "Cr\u00e8me Br\u00fbl\u00e9e", "description": "Classic cr\u00e8me br\u00fbl\u00e9e with crunchy caramel top." },
+      "warme_appeltaart": { "name": "Warm Apple Pie", "description": "Homemade apple pie with ice cream and whipped cream." },
+      "profiteroles": { "name": "Profiteroles with Chocolate Sauce", "description": "Cream-filled choux pastry with warm chocolate sauce." },
+      "dame_blanche": { "name": "Dame Blanche", "description": "Vanilla ice cream with warm Belgian chocolate sauce and whipped cream." },
+      "peche_melba": { "name": "P\u00eache Melba", "description": "Vanilla ice cream with peach and raspberry sauce." },
+      "kinder_ijsje": { "name": "Kids Ice Cream", "description": "A scoop of ice cream of choice for the little ones." },
+
+      "aperitief_amadeus": { "name": "Aperitief Amadeus", "description": "The Amadeus house aperitif." },
+      "aperol_spritz": { "name": "Aperol Spritz", "description": "Aperol with prosecco and a splash of soda." },
+      "porto_rood": { "name": "Red Port", "description": "Classic red port wine." },
+      "campari_puur": { "name": "Campari Neat", "description": "Campari served neat." },
+      "campari_orange": { "name": "Campari Orange", "description": "Campari with orange juice." },
+      "ricard": { "name": "Ricard", "description": "French anise aperitif." },
+      "kir": { "name": "Kir", "description": "White wine with blackcurrant liqueur." },
+      "kir_royal": { "name": "Kir Royal", "description": "Champagne with blackcurrant liqueur." },
+      "martini_wit": { "name": "Martini White", "description": "Classic white Martini." },
+      "gin_tonic": { "name": "Gin & Tonic", "description": "Filliers 1928 Tribute + Fevertree tonic." },
+      "gin_tonic_av": { "name": "Gin & Tonic Non-Alcoholic", "description": "Alcohol-free gin with Fevertree tonic." },
+
+      "stella_25": { "name": "Stella Artois 25cl", "description": "Belgian pilsner on draft." },
+      "stella_50": { "name": "Stella Artois 50cl", "description": "Belgian pilsner on draft, large." },
+      "leffe_blond_draft": { "name": "Leffe Blond 50cl", "description": "Belgian abbey beer on draft." },
+      "tripel_karmeliet": { "name": "Tripel Karmeliet", "description": "Three-grain beer on draft, 8.4%." },
+      "leffe_bruin": { "name": "Leffe Bruin", "description": "Dark Belgian abbey beer, bottle." },
+      "lindemans_kriek": { "name": "Lindemans Kriek", "description": "Belgian cherry beer, bottle." },
+      "hoegaarden": { "name": "Hoegaarden", "description": "Belgian wheat beer, bottle." },
+      "delirium_tremens": { "name": "Delirium Tremens", "description": "Strong Belgian blond beer, bottle." },
+      "delirium_red": { "name": "Delirium Red", "description": "Fruity red beer, bottle." },
+      "duvel": { "name": "Duvel", "description": "Iconic Belgian strong blond beer, bottle." },
+      "westmalle_dubbel": { "name": "Westmalle Dubbel", "description": "Trappist double, bottle." },
+      "westmalle_tripel": { "name": "Westmalle Tripel", "description": "Trappist triple, bottle." },
+      "la_chouffe": { "name": "La Chouffe", "description": "Belgian blond beer from the Ardennes, bottle." },
+      "stella_0": { "name": "Stella Artois 0.0%", "description": "Non-alcoholic Belgian pilsner." },
+      "carlsberg_0": { "name": "Carlsberg 0.0%", "description": "Non-alcoholic Danish pilsner." },
+      "leffe_blond_0": { "name": "Leffe Blond 0.0%", "description": "Non-alcoholic Belgian abbey beer." },
+
+      "wijn_rood": { "name": "Red \u2014 Merlot", "description": "Per glass. 75cl bottle also available." },
+      "wijn_wit": { "name": "White \u2014 Chardonnay", "description": "Per glass. 75cl bottle also available." },
+      "wijn_rose": { "name": "Ros\u00e9", "description": "Per glass. 75cl bottle also available." },
+      "cava": { "name": "Cava", "description": "Spanish sparkling wine per glass." },
+      "jenever_filliers": { "name": "Jenever Filliers Barrel Aged 8Y", "description": "8-year aged Belgian jenever." },
+      "whisky_filliers": { "name": "Whisky Filliers Single Malt 10Y", "description": "10-year aged Belgian single malt." },
+      "jack_daniels": { "name": "Whisky Jack Daniel's", "description": "Tennessee whiskey." },
+      "amaretto_disaronno": { "name": "Amaretto Disaronno", "description": "Italian almond liqueur." },
+      "vodka": { "name": "Vodka", "description": "Premium grain vodka." },
+      "cognac": { "name": "Cognac", "description": "French cognac." },
+      "gin_filliers": { "name": "Gin Filliers 1928 Tribute", "description": "Belgian craft gin." },
+      "rum_centenario": { "name": "Rum Centenario", "description": "Aged premium rum." },
+      "limoncello": { "name": "Limoncello Bongiorno", "description": "Italian lemon liqueur." },
+
+      "plat_water": { "name": "Still Water", "description": "Glass. Bottle also available." },
+      "bruisend_water": { "name": "Sparkling Water", "description": "Glass. Bottle also available." },
+      "coca_cola": { "name": "Coca Cola / Zero", "description": "Glass. Bottle also available." },
+      "fanta": { "name": "Fanta", "description": "Glass. Bottle also available." },
+      "ice_tea": { "name": "Ice Tea Lipton", "description": "Glass. Bottle also available." },
+      "koffie": { "name": "Coffee", "description": "Freshly ground coffee." },
+      "espresso": { "name": "Espresso", "description": "Double espresso." },
+      "cappuccino": { "name": "Cappuccino", "description": "Espresso with steamed milk." },
+      "thee": { "name": "Tea", "description": "Rosehip, green, chamomile, or black." },
+      "irish_coffee": { "name": "Amadeus\u2019 Irish Coffee", "description": "Our famous Irish Coffee in 3 layers. Rich coffee, Irish whiskey, and fresh cream." },
+      "flemish_coffee": { "name": "Flemish Coffee", "description": "Coffee with jenever and whipped cream." },
+      "italian_coffee": { "name": "Italian Coffee", "description": "Coffee with amaretto and whipped cream." }
     },
     "cta": "Reserve Your Table"
   },
@@ -363,6 +391,32 @@
     "spontaneous": {
       "title": "Spontaneous Application",
       "description": "Don't see your perfect role? We're always interested in meeting passionate people. Send us your details and we'll be in touch."
+    },
+    "form": {
+      "title": "Apply Now",
+      "subtitle": "Fill out the form and upload your CV. We'll get back to you as soon as possible.",
+      "name": "Your Name",
+      "email": "Your Email",
+      "phone": "Phone Number",
+      "position": "Position",
+      "positionPlaceholder": "Select a position...",
+      "positions": {
+        "server": "Server / Waiter",
+        "kitchen": "Kitchen Staff",
+        "bartender": "Bartender",
+        "other": "Other / Spontaneous Application"
+      },
+      "motivation": "Motivation",
+      "motivationPlaceholder": "Tell us why you'd like to work at Amadeus...",
+      "cv": "Upload CV",
+      "cvUploadText": "Click to upload your CV",
+      "cvFormats": "PDF, DOC or DOCX (max. 5MB)",
+      "fileTypeError": "Only PDF, DOC and DOCX files are allowed.",
+      "fileSizeError": "File size must not exceed 5MB.",
+      "submit": "Submit Application",
+      "submitting": "Submitting...",
+      "success": "Application Submitted!",
+      "successMessage": "Thank you for your interest in Amadeus. We'll review your application and get back to you as soon as possible."
     }
   },
   "contact": {

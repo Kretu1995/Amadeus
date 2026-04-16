@@ -9,11 +9,13 @@ import { premiumEase } from "@/lib/motion-variants";
 import { Flame, Leaf, ChevronLeft, ChevronRight } from "lucide-react";
 
 const categories: { key: MenuCategory }[] = [
-  { key: "ribs" },
-  { key: "grill" },
   { key: "starters" },
-  { key: "salads" },
+  { key: "mains" },
+  { key: "specials" },
   { key: "desserts" },
+  { key: "aperitifs" },
+  { key: "beers" },
+  { key: "wines" },
   { key: "drinks" },
 ];
 

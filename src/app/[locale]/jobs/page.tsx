@@ -1,8 +1,9 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { PageHero } from "@/components/shared/page-hero";
 import { AnimatedSection } from "@/components/shared/animated-section";
+import { JobApplicationForm } from "@/components/jobs/job-application-form";
 import { generatePageMetadata } from "@/lib/metadata";
-import { MapPin, ArrowRight } from "lucide-react";
+import { MapPin } from "lucide-react";
 
 export async function generateMetadata({
   params,
@@ -67,15 +68,16 @@ export default async function JobsPage({
             ))}
           </div>
 
-          {/* Spontaneous Application */}
+          {/* Application Form */}
           <AnimatedSection>
-            <div className="mt-12 p-8 rounded-lg bg-primary/5 border border-primary/20 text-center">
-              <h3 className="font-heading text-xl font-bold text-foreground mb-3">
-                {t("spontaneous.title")}
-              </h3>
-              <p className="text-muted-foreground text-sm mb-4">
-                {t("spontaneous.description")}
+            <div className="mt-16 p-8 rounded-lg bg-card border border-border">
+              <h2 className="font-heading text-2xl md:text-3xl font-bold text-foreground mb-3">
+                {t("form.title")}
+              </h2>
+              <p className="text-muted-foreground text-sm mb-8">
+                {t("form.subtitle")}
               </p>
+              <JobApplicationForm />
             </div>
           </AnimatedSection>
         </div>

@@ -182,74 +182,102 @@
     "allYouCanEat": "All-you-can-eat",
     "perPerson": "per persoon",
     "categories": {
-      "ribs": "Ribs",
-      "grill": "Van de Grill",
       "starters": "Voorgerechten",
-      "salads": "Salades",
+      "mains": "Hoofdgerechten",
+      "specials": "Specials & Kinderen",
       "desserts": "Desserts",
-      "drinks": "Dranken"
+      "aperitifs": "Aperitieven",
+      "beers": "Bieren",
+      "wines": "Wijnen & Sterke Dranken",
+      "drinks": "Dranken & Koffie"
     },
     "items": {
-      "spareribs": {
-        "name": "Klassieke Spareribs",
-        "description": "Onze kenmerkende ribs met huismarinade, langzaam gegaard tot perfectie. All-you-can-eat geserveerd met frietjes en salade."
-      },
-      "spareribs_bbq": {
-        "name": "BBQ Spareribs",
-        "description": "Rokerig barbecue geglazuurde ribs, gekarameliseerd en onweerstaanbaar. All-you-can-eat met bijgerechten."
-      },
-      "spareribs_honey": {
-        "name": "Honing Mosterd Spareribs",
-        "description": "Zoete honing en pittige mosterdglazuur over malse spareribs. All-you-can-eat."
-      },
-      "mixed_grill": {
-        "name": "Mixed Grill",
-        "description": "Een royale schotel van gegrild vlees met seizoensgroenten en frietjes."
-      },
-      "salmon": {
-        "name": "Gegrilde Zalm",
-        "description": "Verse Atlantische zalm, perfect gegrild, met een citroen-kruidenboter en seizoensgarnituur."
-      },
-      "prawns": {
-        "name": "Koningsgarnalen",
-        "description": "Sappige koningsgarnalen in lookboter, geserveerd met rijst en verse salade."
-      },
-      "soup": {
-        "name": "Soep van de Dag",
-        "description": "Dagelijks vers bereid met seizoensingredi\u00ebnten. Vraag je bedienaar naar de creatie van vandaag."
-      },
-      "garlic_bread": {
-        "name": "Lookbrood",
-        "description": "Knapperig stokbrood met gesmolten lookboter en kruiden."
-      },
-      "caesar": {
-        "name": "Caesar Salade",
-        "description": "Krokante romaine sla, parmezaan, croutons en klassieke Caesardressing."
-      },
-      "veggie": {
-        "name": "Vegetarisch Bord",
-        "description": "Een kleurrijke selectie van seizoensgroenten, hummus en granen."
-      },
-      "dame_blanche": {
-        "name": "Dame Blanche",
-        "description": "Vanille-ijs met warme Belgische chocoladesaus en slagroom."
-      },
-      "tiramisu": {
-        "name": "Tiramisu",
-        "description": "Klassieke Italiaanse tiramisu met mascarpone cr\u00e8me en espresso-gedrenkte lange vingers."
-      },
-      "irish_coffee": {
-        "name": "Irish Coffee",
-        "description": "Onze beroemde Irish Coffee. Rijke koffie, Ierse whiskey en verse room. Het perfecte einde."
-      },
-      "house_wine_red": {
-        "name": "Huiswijn Rood",
-        "description": "Zorgvuldig geselecteerde rode wijn per glas."
-      },
-      "house_wine_white": {
-        "name": "Huiswijn Wit",
-        "description": "Verfrissende witte wijn per glas."
-      }
+      "tomatensoep": { "name": "Tomatensoep", "description": "Huisgemaakte tomatensoep, dagelijks vers bereid." },
+      "seizoenssalade": { "name": "Seizoenssalade", "description": "Frisse salade met seizoensgroenten." },
+      "geitenkaas": { "name": "Gegratineerde Geitenkaas", "description": "Warme gegratineerde geitenkaas op een bedje van salade." },
+      "carpaccio": { "name": "Carpaccio van Rund", "description": "Fijn gesneden rundscarpaccio met parmezaan, rucola en truffeldressing." },
+
+      "spareribs_volonte": { "name": "Spareribs \u00e0 Volont\u00e9", "description": "Onze legendarische all-you-can-eat spareribs met frietjes en salade. Het paradepaardje van Amadeus." },
+      "mixed_grill": { "name": "Mixed Grill", "description": "Drie stuks: snack, kip en brochette met frietjes en salade." },
+      "gegrilde_garnalen": { "name": "Gegrilde Garnalen", "description": "Drie sappige gegrilde garnalen met bijgerechten." },
+      "gegrilde_kipfilet": { "name": "Gegrilde Kipfilet", "description": "Malse gegrilde kipfilet met seizoensgarnituur." },
+      "kalkoenbrochette": { "name": "Kalkoenbrochette", "description": "Sappige kalkoenbrochette met groenten en frietjes." },
+      "steak_bearnaise": { "name": "Steak met B\u00e9arnaisesaus", "description": "Gegrilde steak geserveerd met klassieke b\u00e9arnaisesaus en frietjes." },
+      "steak_pepersaus": { "name": "Steak met Pepersaus", "description": "Gegrilde steak met romige pepersaus en frietjes." },
+      "vegetarische_suggestie": { "name": "Vegetarische Suggestie", "description": "Dagelijks wisselend vegetarisch gerecht. Vraag je bedienaar." },
+
+      "specials_menu": { "name": "Specials Menu", "description": "Spareribs \u00e0 volont\u00e9 + Irish Coffee. De perfecte combinatie." },
+      "belgian_beer_menu": { "name": "Belgian Beer Menu", "description": "Spareribs \u00e0 volont\u00e9 + Tripel Karmeliet + Belgische chocolademousse." },
+      "kinder_spareribs": { "name": "Kinder Spareribs", "description": "Portie spareribs voor kinderen (niet \u00e0 volont\u00e9)." },
+      "kinder_kipfilet": { "name": "Kinder Kipfilet", "description": "Gegrilde kipfilet in kindermaat." },
+      "kinder_balletjes": { "name": "Kinder Balletjes in Tomatensaus", "description": "Gehaktballetjes in huisgemaakte tomatensaus." },
+      "kinder_kipnugget": { "name": "Kinder Kipnugget Brochette", "description": "Kipnuggets op een brochette, geliefd bij kinderen." },
+
+      "chocolademousse": { "name": "Chocolademousse", "description": "Romige Belgische chocolademousse." },
+      "rijstpap": { "name": "Rijstpap met Speculaas", "description": "Huisgemaakte rijstpap met krokante speculaas." },
+      "belgisch_sorbet": { "name": "Belgisch Sorbet", "description": "Verfrissend sorbet-ijs." },
+      "creme_brulee": { "name": "Cr\u00e8me Br\u00fbl\u00e9e", "description": "Klassieke cr\u00e8me br\u00fbl\u00e9e met krokante karamellaag." },
+      "warme_appeltaart": { "name": "Warme Appeltaart", "description": "Huisgemaakte appeltaart met ijs en slagroom." },
+      "profiteroles": { "name": "Profiteroles met Chocoladesaus", "description": "Soesjes gevuld met room en overgoten met warme chocoladesaus." },
+      "dame_blanche": { "name": "Dame Blanche", "description": "Vanille-ijs met warme Belgische chocoladesaus en slagroom." },
+      "peche_melba": { "name": "P\u00eache Melba", "description": "Vanille-ijs met perzik en frambozensaus." },
+      "kinder_ijsje": { "name": "Kinder IJsje", "description": "Een bolletje ijs naar keuze voor de kleintjes." },
+
+      "aperitief_amadeus": { "name": "Aperitief Amadeus", "description": "Het huisaperitief van Amadeus." },
+      "aperol_spritz": { "name": "Aperol Spritz", "description": "Aperol met prosecco en een vleugje spuitwater." },
+      "porto_rood": { "name": "Porto Rood", "description": "Klassieke rode port." },
+      "campari_puur": { "name": "Campari Puur", "description": "Campari puur geserveerd." },
+      "campari_orange": { "name": "Campari Orange", "description": "Campari met sinaasappelsap." },
+      "ricard": { "name": "Ricard", "description": "Frans anijsaperitief." },
+      "kir": { "name": "Kir", "description": "Witte wijn met cassis." },
+      "kir_royal": { "name": "Kir Royal", "description": "Champagne met cassis." },
+      "martini_wit": { "name": "Martini Wit", "description": "Klassieke witte Martini." },
+      "gin_tonic": { "name": "Gin & Tonic", "description": "Filliers 1928 Tribute + Fevertree tonic." },
+      "gin_tonic_av": { "name": "Gin & Tonic Alcoholvrij", "description": "Alcoholvrije gin met Fevertree tonic." },
+
+      "stella_25": { "name": "Stella Artois 25cl", "description": "Belgisch pils van 't vat." },
+      "stella_50": { "name": "Stella Artois 50cl", "description": "Belgisch pils van 't vat, groot." },
+      "leffe_blond_draft": { "name": "Leffe Blond 50cl", "description": "Belgisch abdijbier van 't vat." },
+      "tripel_karmeliet": { "name": "Tripel Karmeliet", "description": "Driegranenbiertje van 't vat, 8.4%." },
+      "leffe_bruin": { "name": "Leffe Bruin", "description": "Donker Belgisch abdijbier, fles." },
+      "lindemans_kriek": { "name": "Lindemans Kriek", "description": "Belgisch kersenbier, fles." },
+      "hoegaarden": { "name": "Hoegaarden", "description": "Belgisch witbier, fles." },
+      "delirium_tremens": { "name": "Delirium Tremens", "description": "Krachtig Belgisch blond bier, fles." },
+      "delirium_red": { "name": "Delirium Red", "description": "Fruitig rood bier, fles." },
+      "duvel": { "name": "Duvel", "description": "Iconisch Belgisch sterk blond bier, fles." },
+      "westmalle_dubbel": { "name": "Westmalle Dubbel", "description": "Trappist dubbel, fles." },
+      "westmalle_tripel": { "name": "Westmalle Tripel", "description": "Trappist tripel, fles." },
+      "la_chouffe": { "name": "La Chouffe", "description": "Belgisch blond bier uit de Ardennen, fles." },
+      "stella_0": { "name": "Stella Artois 0.0%", "description": "Alcoholvrij Belgisch pils." },
+      "carlsberg_0": { "name": "Carlsberg 0.0%", "description": "Alcoholvrij Deens pils." },
+      "leffe_blond_0": { "name": "Leffe Blond 0.0%", "description": "Alcoholvrij Belgisch abdijbier." },
+
+      "wijn_rood": { "name": "Rood \u2014 Merlot", "description": "Per glas. Fles 75cl ook beschikbaar." },
+      "wijn_wit": { "name": "Wit \u2014 Chardonnay", "description": "Per glas. Fles 75cl ook beschikbaar." },
+      "wijn_rose": { "name": "Ros\u00e9", "description": "Per glas. Fles 75cl ook beschikbaar." },
+      "cava": { "name": "Cava", "description": "Spaanse mousserende wijn per glas." },
+      "jenever_filliers": { "name": "Jenever Filliers Barrel Aged 8Y", "description": "8 jaar gerijpte Belgische jenever." },
+      "whisky_filliers": { "name": "Whisky Filliers Single Malt 10Y", "description": "10 jaar gerijpte Belgische single malt." },
+      "jack_daniels": { "name": "Whisky Jack Daniel's", "description": "Tennessee whiskey." },
+      "amaretto_disaronno": { "name": "Amaretto Disaronno", "description": "Italiaanse amandelllikeur." },
+      "vodka": { "name": "Vodka", "description": "Premium grain vodka." },
+      "cognac": { "name": "Cognac", "description": "Franse cognac." },
+      "gin_filliers": { "name": "Gin Filliers 1928 Tribute", "description": "Belgische ambachtelijke gin." },
+      "rum_centenario": { "name": "Rum Centenario", "description": "Gerijpte premium rum." },
+      "limoncello": { "name": "Limoncello Bongiorno", "description": "Italiaanse citroenlikeur." },
+
+      "plat_water": { "name": "Plat Water", "description": "Glas. Fles ook beschikbaar." },
+      "bruisend_water": { "name": "Bruisend Water", "description": "Glas. Fles ook beschikbaar." },
+      "coca_cola": { "name": "Coca Cola / Zero", "description": "Glas. Fles ook beschikbaar." },
+      "fanta": { "name": "Fanta", "description": "Glas. Fles ook beschikbaar." },
+      "ice_tea": { "name": "Ice Tea Lipton", "description": "Glas. Fles ook beschikbaar." },
+      "koffie": { "name": "Koffie", "description": "Versgemalen koffie." },
+      "espresso": { "name": "Espresso", "description": "Dubbele espresso." },
+      "cappuccino": { "name": "Cappuccino", "description": "Espresso met opgeschuimde melk." },
+      "thee": { "name": "Thee", "description": "Rozenbottel, groen, kamille of zwart." },
+      "irish_coffee": { "name": "Amadeus\u2019 Irish Coffee", "description": "Onze beroemde Irish Coffee in 3 lagen. Rijke koffie, Ierse whiskey en verse room." },
+      "flemish_coffee": { "name": "Flemisch Coffee", "description": "Koffie met jenever en slagroom." },
+      "italian_coffee": { "name": "Italian Coffee", "description": "Koffie met amaretto en slagroom." }
     },
     "cta": "Reserveer Je Tafel"
   },
@@ -363,6 +391,32 @@
     "spontaneous": {
       "title": "Spontane Sollicitatie",
       "description": "Zie je niet de perfecte functie? We zijn altijd ge\u00efnteresseerd in het ontmoeten van gepassioneerde mensen. Stuur ons je gegevens en we nemen contact op."
+    },
+    "form": {
+      "title": "Solliciteer Nu",
+      "subtitle": "Vul het formulier in en upload je CV. We nemen zo snel mogelijk contact met je op.",
+      "name": "Je Naam",
+      "email": "Je E-mail",
+      "phone": "Telefoonnummer",
+      "position": "Functie",
+      "positionPlaceholder": "Kies een functie...",
+      "positions": {
+        "server": "Ober / Serveerster",
+        "kitchen": "Keukenpersoneel",
+        "bartender": "Bartender",
+        "other": "Andere / Spontane Sollicitatie"
+      },
+      "motivation": "Motivatie",
+      "motivationPlaceholder": "Vertel ons waarom je bij Amadeus wilt werken...",
+      "cv": "CV Uploaden",
+      "cvUploadText": "Klik om je CV te uploaden",
+      "cvFormats": "PDF, DOC of DOCX (max. 5MB)",
+      "fileTypeError": "Alleen PDF, DOC en DOCX bestanden zijn toegestaan.",
+      "fileSizeError": "Het bestand mag maximaal 5MB zijn.",
+      "submit": "Sollicitatie Versturen",
+      "submitting": "Bezig met versturen...",
+      "success": "Sollicitatie Verstuurd!",
+      "successMessage": "Bedankt voor je interesse in Amadeus. We bekijken je sollicitatie en nemen zo snel mogelijk contact met je op."
     }
   },
   "contact": {
