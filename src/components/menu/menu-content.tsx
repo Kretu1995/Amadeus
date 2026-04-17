@@ -175,9 +175,9 @@ export function MenuContent() {
                   className="relative z-10"
                   style={{ transformStyle: "preserve-3d" }}
                 >
-                  <div className="grid grid-cols-1 md:grid-cols-2 min-h-[600px]">
+                  <div className="grid grid-cols-1 md:grid-cols-2 md:min-h-[600px]">
                     {/* LEFT PAGE */}
-                    <div className="relative px-8 sm:px-10 md:px-12 py-10 md:py-12 md:border-r border-amber-900/10">
+                    <div className="relative px-4 sm:px-8 md:px-12 py-8 md:py-12 md:border-r border-amber-900/10">
                       {/* Page number */}
                       <div className="text-center mb-8">
                         <p className="text-xs text-amber-800/40 uppercase tracking-[0.3em] mb-3">
@@ -211,7 +211,7 @@ export function MenuContent() {
                     </div>
 
                     {/* RIGHT PAGE */}
-                    <div className="relative px-8 sm:px-10 md:px-12 py-10 md:py-12">
+                    <div className="relative px-4 sm:px-8 md:px-12 pt-0 pb-8 md:py-12">
                       {/* Right page continuation or decoration */}
                       {rightItems.length > 0 ? (
                         <>
@@ -296,52 +296,54 @@ export function MenuContent() {
           </div>
 
           {/* Page turn navigation */}
-          <div className="flex items-center justify-between mt-8 px-2">
-            <button
-              onClick={prevPage}
-              disabled={activePage === 0}
-              className="flex items-center gap-1.5 px-4 py-2 text-sm text-muted-foreground hover:text-foreground disabled:opacity-20 disabled:cursor-not-allowed transition-colors rounded-md hover:bg-muted/50"
-            >
-              <ChevronLeft size={16} />
-              <span className="hidden sm:inline">
-                {activePage > 0
-                  ? t(`categories.${categories[activePage - 1].key}`)
-                  : ""}
-              </span>
-            </button>
-
-            {/* Category tabs as page markers */}
-            <div className="flex items-center gap-1.5 flex-wrap justify-center">
-              {categories.map((cat, i) => (
-                <button
-                  key={cat.key}
-                  onClick={() => goToPage(i)}
-                  className={`px-3 py-1.5 text-sm font-medium rounded transition-all ${
-                    i === activePage
-                      ? "bg-primary text-primary-foreground shadow-sm"
-                      : "text-muted-foreground hover:text-foreground hover:bg-muted/50"
-                  }`}
-                >
-                  <span className="hidden sm:inline">
+          <div className="mt-8">
+            {/* Category tabs - horizontal scroll on mobile */}
+            <div className="overflow-x-auto -mx-2 px-2 pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+              <div className="flex items-center gap-1.5 lg:flex-wrap justify-start lg:justify-center min-w-max lg:min-w-0">
+                {categories.map((cat, i) => (
+                  <button
+                    key={cat.key}
+                    onClick={() => goToPage(i)}
+                    className={`px-3 py-1.5 text-sm font-medium rounded whitespace-nowrap transition-all ${
+                      i === activePage
+                        ? "bg-primary text-primary-foreground shadow-sm"
+                        : "text-muted-foreground hover:text-foreground hover:bg-muted/50"
+                    }`}
+                  >
                     {t(`categories.${cat.key}`)}
-                  </span>
-                  <span className="sm:hidden">{i + 1}</span>
-                </button>
-              ))}
+                  </button>
+                ))}
+              </div>
             </div>
 
-            <button
-              onClick={nextPage}
-              disabled={activePage === categories.length - 1}
-              className="flex items-center gap-1.5 px-4 py-2 text-sm text-muted-foreground hover:text-foreground disabled:opacity-20 disabled:cursor-not-allowed transition-colors rounded-md hover:bg-muted/50"
-            >
-              <span className="hidden sm:inline">
-                {activePage < categories.length - 1
-                  ? t(`categories.${categories[activePage + 1].key}`)
-                  : ""}
-              </span>
-              <ChevronRight size={16} />
-            </button>
+            {/* Prev/Next */}
+            <div className="flex items-center justify-between mt-4 px-2">
+              <button
+                onClick={prevPage}
+                disabled={activePage === 0}
+                className="flex items-center gap-1.5 px-4 py-2 text-sm text-muted-foreground hover:text-foreground disabled:opacity-20 disabled:cursor-not-allowed transition-colors rounded-md hover:bg-muted/50"
+              >
+                <ChevronLeft size={16} />
+                <span className="hidden sm:inline">
+                  {activePage > 0
+                    ? t(`categories.${categories[activePage - 1].key}`)
+                    : ""}
+                </span>
+              </button>
+
+              <button
+                onClick={nextPage}
+                disabled={activePage === categories.length - 1}
+                className="flex items-center gap-1.5 px-4 py-2 text-sm text-muted-foreground hover:text-foreground disabled:opacity-20 disabled:cursor-not-allowed transition-colors rounded-md hover:bg-muted/50"
+              >
+                <span className="hidden sm:inline">
+                  {activePage < categories.length - 1
+                    ? t(`categories.${categories[activePage + 1].key}`)
+                    : ""}
+                </span>
+                <ChevronRight size={16} />
+              </button>
+            </div>
           </div>
         </div>
       </div>

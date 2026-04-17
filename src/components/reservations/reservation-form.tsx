@@ -174,10 +174,7 @@ export function ReservationForm() {
 
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8">
             {/* RestoManager widget */}
-            <div
-              className="relative w-full overflow-hidden rounded-2xl"
-              style={{ minHeight: "900px", paddingTop: "100%" }}
-            >
+            <div className="relative w-full overflow-hidden rounded-2xl h-[1100px] sm:h-[1000px] md:h-[900px]">
               {selectedLoc?.bookingUrl && (
                 <iframe
                   src={selectedLoc.bookingUrl}

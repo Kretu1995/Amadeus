@@ -20,7 +20,7 @@ export function HeroSection() {
   return (
     <section
       ref={ref}
-      className="relative h-screen min-h-[700px] flex items-center justify-center overflow-hidden"
+      className="relative min-h-[600px] sm:min-h-[700px] h-[100svh] flex items-center justify-center overflow-hidden"
     >
       {/* Parallax Background */}
       <motion.div
@@ -65,7 +65,7 @@ export function HeroSection() {
           {/* Main Headline */}
           <motion.h1
             variants={heroTextReveal}
-            className="font-heading text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-white text-shadow-hero leading-[1.1]"
+            className="font-heading text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-bold text-white text-shadow-hero leading-[1.1]"
           >
             {t("tagline")}
           </motion.h1>
@@ -81,17 +81,17 @@ export function HeroSection() {
           {/* CTAs */}
           <motion.div
             variants={heroTextReveal}
-            className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4"
+            className="flex flex-col sm:flex-row items-stretch sm:items-center justify-center gap-3 sm:gap-4 pt-4 max-w-md sm:max-w-none mx-auto"
           >
             <Link
               href="/reserveren"
-              className="inline-flex items-center px-8 py-4 bg-primary text-primary-foreground text-base font-semibold rounded-md hover:bg-primary/90 transition-all shadow-lg shadow-primary/30 hover:shadow-primary/50"
+              className="inline-flex items-center justify-center px-8 py-4 bg-primary text-primary-foreground text-base font-semibold rounded-md hover:bg-primary/90 transition-all shadow-lg shadow-primary/30 hover:shadow-primary/50"
             >
               {t("cta")}
             </Link>
             <Link
               href="/menu"
-              className="inline-flex items-center px-8 py-4 border border-white/30 text-white text-base font-semibold rounded-md hover:bg-white/10 hover:border-white/50 transition-all"
+              className="inline-flex items-center justify-center px-8 py-4 border border-white/30 text-white text-base font-semibold rounded-md hover:bg-white/10 hover:border-white/50 transition-all"
             >
               {t("ctaMenu")}
             </Link>

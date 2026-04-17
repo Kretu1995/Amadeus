@@ -66,15 +66,15 @@ export function Header() {
             </nav>
 
             {/* Right section */}
-            <div className="flex items-center gap-3">
-              <div className="hidden md:block">
+            <div className="flex items-center gap-2 sm:gap-3">
+              <div className="hidden lg:block">
                 <LanguageSwitcher />
               </div>
 
               {/* Reserve CTA - Desktop */}
               <Link
                 href="/reserveren"
-                className="hidden md:inline-flex items-center px-5 py-2.5 bg-primary text-primary-foreground text-sm font-semibold rounded-md hover:bg-primary/90 transition-colors shadow-lg shadow-primary/20"
+                className="hidden lg:inline-flex items-center px-5 py-2.5 bg-primary text-primary-foreground text-sm font-semibold rounded-md hover:bg-primary/90 transition-colors shadow-lg shadow-primary/20"
               >
                 {t("nav.reserve")}
               </Link>
@@ -82,8 +82,9 @@ export function Header() {
               {/* Mobile Menu Toggle */}
               <button
                 onClick={() => setIsMobileOpen(!isMobileOpen)}
-                className="lg:hidden p-2 text-foreground"
+                className="lg:hidden inline-flex items-center justify-center w-10 h-10 text-foreground rounded-md hover:bg-muted/50 transition-colors"
                 aria-label="Toggle menu"
+                aria-expanded={isMobileOpen}
               >
                 {isMobileOpen ? <X size={24} /> : <Menu size={24} />}
               </button>
